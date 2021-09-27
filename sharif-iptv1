@@ -27,7 +27,7 @@ http://10.16.100.203:8082/bangla/rTV_local.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:12, tvg-id="New EPG" tvg-logo="https://image.pngaaa.com/461/4338461-middle.png" tvg-name="NAGORIK TV "  group-title="BANGLA",NAGORIK TV 
 http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nandan" tvg-logo="https://yt3.ggpht.com/a/AATXAJyMGWMV2WF6Eh6zINMZMmykJoACr-n14neEDKu9=s900-c-k-c0x00ffffff-no-rj" group-title="Bangladesh",Nandan
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nandan" tvg-logo="https://yt3.ggpht.com/a/AATXAJyMGWMV2WF6Eh6zINMZMmykJoACr-n14neEDKu9=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLA",Nandan
 http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:46, tvg-id="New EPG" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" tvg-name="DIPTO TV"  group-title="BANGLA",DIPTO TV
 http://103.205.133.21/hls/deeptotv.m3u8
