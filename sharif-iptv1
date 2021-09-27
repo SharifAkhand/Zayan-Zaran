@@ -67,6 +67,9 @@ http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8
 http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
 #EXTINF:28, tvg-id="New EPG" tvg-logo="https://durbinlive.com/uploads/tv_image/colors-bangla-hd.png" tvg-name="COLORS  BANGLA"  group-title="BANGLA",COLORS  BANGLA
 http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8
+#EXTINF:0,Enter10 Bangla (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Bangla",104.Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:33, tvg-id="New EPG" tvg-logo="https://i.ytimg.com/vi/bkpqmASVu4Y/mqdefault.jpg" tvg-name="DESH TV"  group-title="BANGLA",DESH TV
@@ -200,8 +203,60 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision TV" tvg-logo="" group-title="HINDI",Tamil Vision TV
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:0,Action Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Asylum (XUMO) (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
+#EXTINF:0,B4U Bhojpuri (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0nq/index.m3u8
+#EXTINF:0,B4U Hitz (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0wh/index.m3u8
+#EXTINF:0,Bizzarro Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0,Dhinchaak (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:0,Dhinchaak 2 (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:0,Crackle (720p)
+#EXTVLCOPT:network-caching=1000
+https://crackle-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Manoranjan Grand (480p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0m2/index.m3u8
+#EXTINF:0,Uthradam Movies (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8
+#EXTINF:0,Public Movies (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0ll/index.m3u8
+#EXTINF:0,3 Tamil TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0,Dabangg (576p)
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0nb/index.m3u8
+#EXTINF:0,Fakt Marathi (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0q8/index.m3u8
+#EXTINF:0,Kairali TV (576p)
+#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 
 
+
+#EXTINF:0,KCV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
+#EXTINF:0,Flowers TV (576p)
+#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:69, tvg-id="New EPG" tvg-logo="https://i.imgur.com/REO6aFZ.png" tvg-name="AND TV"  group-title="HINDI",AND TV
 http://stream.dhakaflix.com:8081/live/andtv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Punjabi TV" tvg-logo="" group-title="HINDI",Shemaroo Punjabi TV
@@ -228,7 +283,9 @@ http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 
 
-
+#EXTINF:0,Magna Vision (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:29, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Gaan_Bangla_Logo.png/440px-Gaan_Bangla_Logo.png" tvg-name="GAAN BANGLA"  group-title="MUSIC",GAAN BANGLA
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:47, tvg-id="New EPG" tvg-logo="https://durbinlive.com/uploads/tv_image/dhoom-music.jpg" tvg-name="DHOOM MUSIC"  group-title="MUSIC",DHOOM MUSIC
@@ -293,7 +350,21 @@ http://14.199.164.20:4001/play/a0wk/index.m3u8
 http://14.199.164.20:4001/play/a0wi/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-
+#EXTINF:0,Jhanjar Music [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:0,Mtunes Plus (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:0,PMC (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:0,Public Music (576p)
+#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:0,Show Box (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0o8/index.m3u8
 
 #EXTINF:45, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReU-68kG3UJwtDvnMmamlasX3NnE_m5kw5-ltVOs8p3GRfvebWwwNA-yXfZEP2jxk4ZjM&usqp=CAU" tvg-name="PEACE TV BANGLA"  group-title="ISLAMIC",PEACE TV BANGLA
 #EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="Indian Bangla",60.Peace TV Bangla
