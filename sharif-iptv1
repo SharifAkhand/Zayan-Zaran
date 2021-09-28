@@ -65,7 +65,7 @@ https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 
 
-#EXTINF:21, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/474x/65/54/72/655472da8c818b0004b13f63a6855cc1.jpg" tvg-name="CHANNEL S"  group-title="BANGLA",CHANNEL S
+#EXTINF:-1 tvg-logo="https://chsuk.tv/img/cateringcircle.png" group-title="Bangla",34.Channel S
 http://str24.l9574.com/519.stream/index.m3u8
 #EXTINF:49, tvg-id="New EPG" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/d0/ad/abd0ad1d-779e-1184-dda3-b63d33699b9a/source/512x512bb.jpg" tvg-name="BANGLA  CHANNEL"  group-title="BANGLA",BANGLA  CHANNEL
 http://str24.l9574.com/515.stream/index.m3u8
@@ -73,9 +73,11 @@ http://str24.l9574.com/515.stream/index.m3u8
 http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 #EXTINF:22, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" tvg-name="BANGLA TV"  group-title="BANGLA",BANGLA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="Bangla",32.Bangla Channel
+http://str24.l9574.com/515.stream/index.m3u8
 #EXTINF:23, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" tvg-name="MASSRANGA TV"  group-title="BANGLA",MASSRANGA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:24, tvg-id="New EPG" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQhA4swbB6n32n90Ct4HNSIFR74FeGlwio2_9sO=s900-c-k-c0x00ffffff-no-rj" tvg-name="CHANNEL 23"  group-title="BANGLA",CHANNEL 23
+#EXTINF:-1 tvg-logo="" group-title="Bangla,35.Channel 23
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:25, tvg-id="New EPG" tvg-logo="https://i.pinimg.com/736x/17/79/d8/1779d8cb47020be4195ed0a9a8a1189c.jpg" tvg-name="CNN  BANGLA"  group-title="BANGLA",CNN  BANGLA
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
@@ -94,8 +96,8 @@ http://103.205.133.21/hls/sony8.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="News",CHANNEL 24
-https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:0 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" group-title="News",11.CHANNEL 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="News",Jamuna TV
 https://rhridoy136.shortcm.li/jamunatv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="News",ATN News
