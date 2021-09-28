@@ -133,6 +133,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:136, tvg-id="New EPG" tvg-logo="https://img.favpng.com/0/14/4/logo-star-movies-star-india-television-channel-png-favpng-QJjZPr2De5Vbq2qptzcwXU4K8.jpg" tvg-name="STAR PLUS"  group-title="MOVI",STAR PLUS
 https://t2.tvmak.com/tv/STARPLUS.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH1 Music" tvg-logo="" group-title="MOVI",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Bollywood Classic" tvg-logo="" group-title="MOVI",Shemaroo Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora Short Flim" tvg-logo="" group-title="HINDI",Santhora Short Flim
@@ -211,8 +213,6 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xplore Channel" tvg-logo="" group-title="MOVI",Xplore Channel
 https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision TV" tvg-logo="" group-title="HINDI",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 #EXTINF:0,Action Movies (720p)
 #EXTVLCOPT:network-caching=1000
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -296,7 +296,8 @@ https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora TV" tvg-logo="" group-title="INDIA (New)",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV" tvg-logo="" group-title="HINDI",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 
 #EXTINF:0,Magna Vision (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
@@ -321,10 +322,12 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:57, tvg-id="New EPG" tvg-logo="https://play-lh.googleusercontent.com/_tokIaLkpaB25HvIbtf7IjDK7fTf2BR8wzX6UR37bVxQOXO3kcujNdx0GqvUINa06OE" tvg-name="STEELBIRD MUSIC"  group-title="Music",STEELBIRD MUSIC
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:66, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/ATN_MH1_logo.png/200px-ATN_MH1_logo.png" tvg-name="MH 1"  group-title="Music",MH 1
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:74, tvg-id="New EPG" tvg-logo="https://blog.chtrbox.com/wp-content/uploads/2020/02/zee5_660x450_150220115129.jpg" tvg-name="zee5_romance"  group-title="Music",zee5_romance
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK Tunes" tvg-logo="" group-title="Music",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision TV" tvg-logo="" group-title="Music",Tamil Vision TV
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 #EXTINF:79, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgFBzm9AnPx_CzNikmABcRVKGurE4hPRnb9hG4BsZhzqfrSa6Nq3OnoZcjWc6X64Hz07U&usqp=CAU" tvg-name="Zee Bihar Jharkhand "  group-title="Music",Zee Bihar Jharkhand 
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
 #EXTINF:88, tvg-id="New EPG" tvg-logo="https://assets.zee.com/uploads/imgo.jpeg" tvg-name="Zee Music "  group-title="Music",Zee Music 
@@ -380,6 +383,25 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:0,Show Box (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0o8/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Plus" tvg-logo="" group-title="Music",Desi Plus
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новое" tvg-logo="" group-title="Music",Новое
+https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="" group-title="Music",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матур ТВ HD" tvg-logo="" group-title="Music",Матур ТВ HD
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-id="m2-ua" tvg-name="М2" tvg-logo="http://m2.tv/assets/logo-231ef42a791ac4e9287a94c6dd492ebd740ad3bea40f789cd489683b758ff65d.png" group-title="Music",М2
+https://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КТРК Музыка" tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" group-title="Music",КТРК Музыка
+http://onlinetv.ktrk.kg:1935/live/myStream2/playlist.m3u8
+#EXTINF:-1 tvg-id="zhar-ptica" tvg-name="Жар Птица" tvg-logo="http://www.zhar-ptica.tv/sites/default/files/logo.png" group-title="Music",Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xalastra TV" tvg-logo="http://i.imgur.com/LgQBtTh.jpg" group-title="Music",Xalastra TV
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 tvg-id="viva-tv" tvg-name="VIVA TV" tvg-logo="https://i.imgur.com/qCLICfC.jpg" group-title="Music",VIVA TV
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+
 
 
 #EXTINF:43, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" tvg-name="ATN  ISLAMIC"  group-title="ISLAMIC",ATN  ISLAMIC
