@@ -112,67 +112,92 @@ https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MANORANJAN MOVIES" tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Movi",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-
-#EXTINF:136, tvg-id="New EPG" tvg-logo="https://img.favpng.com/0/14/4/logo-star-movies-star-india-television-channel-png-favpng-QJjZPr2De5Vbq2qptzcwXU4K8.jpg" tvg-name="STAR PLUS"  group-title="MOVI",STAR PLUS
-https://t2.tvmak.com/tv/STARPLUS.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH1 Music" tvg-logo="" group-title="MOVI",MH1 Music
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Bollywood Classic" tvg-logo="" group-title="MOVI",Shemaroo Bollywood Classic
+#EXTINF:0,MH1 Music (360p)
+#EXTVLCOPT:network-caching=1000
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Bollywood Classic" tvg-logo="" group-title="INDIA (New)",Shemaroo Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora Short Flim" tvg-logo="" group-title="HINDI",Santhora Short Flim
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora Short Flim" tvg-logo="" group-title="Movi",Santhora Short Flim
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-#EXTINF:52, tvg-id="New EPG" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-ayush-tv-1088.jpg" tvg-name="AYUSH TV"  group-title="MOVI",AYUSH TV
-http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:63, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" tvg-name="Cinemax"  group-title="MOVI",Cinemax
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora TV" tvg-logo="" group-title="Movi",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:0,Cinemax East (360p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Movi",Maha Movie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:0,Star Plus
+#EXTVLCOPT:network-caching=1000
+https://t2.tvmak.com/tv/STARPLUS.m3u8
+#EXTINF:0,STIRR MovieMix (720p)
+#EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
+#EXTINF:0,STIRR Movies (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:0,Ayush TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:64, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/profile_images/1228478265/tvilogo.jpg" tvg-name="TAMILVISION TV"  group-title="MOVI",TAMILVISION TV
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
-#EXTINF:67, tvg-id="New EPG" tvg-logo="http://fuzia.ml/lof/uploads/tv_image/maha-movie.png" tvg-name="MAHA MOVI"  group-title="MOVI",MAHA MOVI
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:68, tvg-id="New EPG" tvg-logo="https://www.pngkey.com/png/full/261-2619560_great-tv-logo-vector-master-pocket-tv-apk.png" tvg-name="Master"  group-title="MOVI",Master
-https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:65, tvg-id="New EPG" tvg-logo="https://cdn.imgbin.com/3/13/13/imgbin-we-tv-television-show-television-channel-logo-others-Anv92AJvvyhuzgkRKnj48Cm3D.jpg" tvg-name="Channel (We)"  group-title="MOVI",Channel (We)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision Int'l (CA) (HD)" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Movi",Tamil Vision Int'l (CA) (HD)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+#EXTINF:0,Kairali We (576p)
+#EXTVLCOPT:network-caching=1000
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:72, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/357-3574866_tamil-tv-channel-logos.png" tvg-name="TAMIL TV"  group-title="MOVI",TAMIL TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:70, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" tvg-name="SONY MAX"  group-title="MOVI",SONY MAX
-http://stream.dhakaflix.com:8081/live/sonymax/chunks.m3u8
-#EXTINF:115, tvg-id="New EPG" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/02/02/Max_2_coming_soon.jpg" tvg-name="SONY MAX 2"  group-title="MOVI",SONY MAX 2
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6625/index.m3u8
-#EXTINF:71, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM4h91BGnp0Sk2r-Fddr5UQEXk9ihOUuBfqArAz6ZFk5mRap7v1fAxjnBf7os3SyCmGXw&usqp=CAU" tvg-name="SONY PIX"  group-title="MOVI",SONY PIX
-http://stream.dhakaflix.com:8081/live/sonypix/chunks.m3u8
-#EXTINF:73, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" tvg-name="Zee5_Originals"  group-title="MOVI",Zee5_Originals
+#EXTINF:0,Zee5 Originals (1080p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:75, tvg-id="New EPG" tvg-logo="data:image/png" tvg-name="ZEE ACTION"  group-title="MOVI",ZEE ACTION
+#EXTINF:0,Zee Action (576p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:76, tvg-id="New EPG" tvg-logo="https://e7.pngegg.com/pngimages/56/963/png-clipart-zee-aflam-television-channel-zee-alwan-zee-tv-zee-tv-logo-television-text.png" tvg-name="Zee Aflam "  group-title="MOVI",Zee Aflam 
+#EXTINF:0,Zee Aflam (720p)
+#EXTVLCOPT:network-caching=1000
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:77, tvg-id="New EPG" tvg-logo="https://campaignme.com/wp-content/uploads/2020/04/Zee-Alwan_Final-Logo-s-600x354.jpg" tvg-name="Zee Alwan "  group-title="MOVI",Zee Alwan 
+#EXTINF:0,Zee Alwan (720p)
+#EXTVLCOPT:network-caching=1000
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:78, tvg-id="New EPG" tvg-logo="https://www.tellychakkar.com/sites/www.tellychakkar.com/files/styles/amp_metadata_content_image_min_696px_wide/public/images/story/2020/06/11/Zee.jpg?itok=MuVpWAQc" tvg-name="Zee Anmol Cinema "  group-title="MOVI",Zee Anmol Cinema 
+#EXTINF:0,Zee Anmol Cinema (576p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-#EXTINF:81, tvg-id="New EPG" tvg-logo="https://www.kindpng.com/picc/m/732-7327906_zee-cafe-logo-png-transparent-png.png" tvg-name="Zee Cafe "  group-title="MOVI",Zee Cafe 
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:82, tvg-id="New EPG" tvg-logo="https://e7.pngegg.com/pngimages/878/103/png-clipart-zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo-television-text.png" tvg-name="Zee Cinema Middle East "  group-title="MOVI",Zee Cinema Middle East 
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:80, tvg-id="New EPG" tvg-logo="data:image/png" tvg-name="Zee Bioskop "  group-title="MOVI",Zee Bioskop 
+#EXTINF:0,Zee Bioskop (360p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:84, tvg-id="New EPG" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/06/27/189722_496663077021024_1804674489_n_0.jpg" tvg-name="Zee Classic "  group-title="MOVI",Zee Classic 
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:83, tvg-id="New EPG" tvg-logo="https://mpng.subpng.com/20180511/gze/kisspng-zee-cinema-zee-tv-high-definition-television-zee-e-5af5b276d23c55.7227919415260514468611.jpg" tvg-name="Zee Cinema UK "  group-title="MOVI",Zee Cinema UK 
+#EXTINF:0,Zee Cafe (720p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:0,Zee Cinema Middle East (720p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
+#EXTINF:0,Zee Cinema UK (576p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:85, tvg-id="New EPG" tvg-logo="data:image/png" tvg-name="Zee Keralam HD "  group-title="MOVI",Zee Keralam HD 
+#EXTINF:0,Zee Classic (576p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+#EXTINF:0,Zee Keralam HD (720p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
-#EXTINF:86, tvg-id="New EPG" tvg-logo="https://image.pngaaa.com/901/2077901-middle.png" tvg-name="Zee Marathi USA "  group-title="MOVI",Zee Marathi USA 
+#EXTINF:0,Zee Marathi USA (576p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:87, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Zee_Mundo_2018.png" tvg-name="Zee Mundo "  group-title="MOVI",Zee Mundo 
+#EXTINF:0,Zee Mundo (720p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:91, tvg-id="New EPG" tvg-logo="data:image/jpeg" tvg-name="Zee Smile USA "  group-title="HINDI",Zee Smile USA 
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:89, tvg-id="New EPG" tvg-logo="https://www.pngitem.com/pimgs/m/673-6731624_zee-punjabi-zee-punjabi-logo-hd-png-download.png" tvg-name="Zee Punjabi "  group-title="MOVI",Zee Punjabi 
+#EXTINF:0,Zee Punjabi (576p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
-#EXTINF:90, tvg-id="New EPG" tvg-logo="data:image/png" tvg-name="Zee Rajasthan "  group-title="MOVI",Zee Rajasthan 
+#EXTINF:0,Zee Rajasthan (576p)
+#EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
+#EXTINF:0,Zee Smile USA (576p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
+#EXTINF:0,Zee Talkies (720p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
+#EXTINF:72, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/357-3574866_tamil-tv-channel-logos.png" tvg-name="TAMIL TV"  group-title="Movi",TAMIL TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:105, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/107-1070668_b4u-movies-indian-tv-channel-logo-png.png" tvg-name="B4U movies "  group-title="MOVI",B4U movies 
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:106, tvg-id="New EPG" tvg-logo="https://www.adgully.com/img/800/202005/b4u-bhojpuri_logo.png.jpg" tvg-name="B4U Bhojpuri "  group-title="MOVI",B4U Bhojpuri 
@@ -183,7 +208,7 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 #EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="MOVI",24 Hour Free Movies 
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="MOVI",172.Al Fajer Movie
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="MOVI",Al Fajer Movie
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MOVI",Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
@@ -248,72 +273,6 @@ https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
 
 
-#EXTINF:0,Zee5 Originals (1080p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:0,Zee5 Romance (1080p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-#EXTINF:0,Zee 24 (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/kalak/playlist.m3u8
-#EXTINF:0,Zee Action (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
-#EXTINF:0,Zee Aflam (720p)
-#EXTVLCOPT:network-caching=1000
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:0,Zee Alwan (720p)
-#EXTVLCOPT:network-caching=1000
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:0,Zee Anmol Cinema (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-#EXTINF:0,Zee Bihar Jharkhand (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-#EXTINF:0,Zee Bioskop (360p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:0,Zee Cafe (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:0,Zee Cinema Middle East (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:0,Zee Cinema UK (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
-#EXTINF:0,Zee Classic (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:0,Zee Keralam HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
-#EXTINF:0,Zee Marathi USA (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:0,Zee Mundo (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
-#EXTINF:0,Zee Music (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-#EXTINF:0,Zee News MPCG (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/newsmpcg/playlist.m3u8
-#EXTINF:0,Zee Punjabi (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
-#EXTINF:0,Zee Rajasthan (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:0,Zee Smile USA (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:0,Zee Talkies (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 #EXTINF:0,Zee TV (480p)
 #EXTVLCOPT:network-caching=1000
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
@@ -332,8 +291,6 @@ https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
 #EXTINF:0,Zee TV USA (576p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
-
-
 #EXTINF:0,KCV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
@@ -350,12 +307,22 @@ http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV" tvg-logo="" group-title="HINDI",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shubhsandesh" tvg-logo="" group-title="Hindi",Shubhsandesh
+https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:0,B4U Music (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 
 
+#EXTINF:0,Zee5 Romance (1080p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:0,Zee Bihar Jharkhand (576p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
+#EXTINF:0,Zee Music (576p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
 #EXTINF:0,Magna Vision (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
@@ -464,7 +431,8 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8?token=sohel
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Music",138.Bol Hadippa
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8?token=soheliptv01826655778
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Punjabi TV" tvg-logo="" group-title="Hindi",Shemaroo Punjabi TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
 
 
 #EXTINF:43, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" tvg-name="ATN  ISLAMIC"  group-title="ISLAMIC",ATN  ISLAMIC
