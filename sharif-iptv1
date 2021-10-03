@@ -183,8 +183,7 @@ http://14.199.164.20:4001/play/a0nq/index.m3u8
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Movi",Al Fajer Movie
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
 
 
 
@@ -220,7 +219,8 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="English Movi",Cinemax
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="ext" tvg-name="AlFajer MOVIE" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="English Movi",AlFajer MOVIE
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?Live-TV™
 
 
 #EXTINF:0,B4U Plus (720p) [Not 24/7]
