@@ -103,8 +103,7 @@ http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
 https://rhridoy136.shortcm.li/dbcnews.m3u8
 
 
-#EXTINF:0,Zee Bangla Cinema (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Movi",Zee Bangla Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="Movi",Movie Bangla
 https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
@@ -120,17 +119,12 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bflix Movies" tvg-logo="Logo N/A" group-title="Movi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:0,&Flix (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="Movi",& Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:0,B4U movies (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:0,B4U Plus (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0wi/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Dabaang" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi)",Dabaang
+http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Movi",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Wow Cinema" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Movi",Wow Cinema
@@ -165,6 +159,8 @@ https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Kalinga" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-odisha-45.png" group-title="Movi",Zee Kalinga
 https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kairali" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",Kairali
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Movi",Zee TAMIL
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lollywood" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="Movi",Lollywood
@@ -177,6 +173,8 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF:107, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/profile_images/418473106819121153/MsweKAdm_400x400.png" tvg-name="Bahar TV "  group-title="Movi",Bahar TV 
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",Flowers TV
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:108, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1200px-7flix_logo_2020.svg.png" tvg-name="7flix "  group-title="Movi",7flix 
 https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 #EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="Movi",24 Hour Free Movies 
@@ -210,9 +208,18 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 
 
+#EXTINF:0,B4U movies (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:0,B4U Plus (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0wi/index.m3u8
 #EXTINF:0,B4U Hitz (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0wh/index.m3u8
+#EXTINF:0,B4U Bhojpuri (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF:0,Zee Aflam (720p)
 #EXTVLCOPT:network-caching=1000
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
@@ -228,21 +235,12 @@ https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:0,Zee Talkies (720p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:0,Flowers TV (576p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:0,MH1 Music (360p)
 #EXTVLCOPT:network-caching=1000
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:0,Kairali We (576p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:0,3 Tamil TV (720p)
 #EXTVLCOPT:network-caching=1000
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0,Dabangg (576p)
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0nb/index.m3u8
 #EXTINF:0,Fakt Marathi (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0q8/index.m3u8
@@ -282,9 +280,6 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Asylum (XUMO) (720p)
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
-#EXTINF:0,B4U Bhojpuri (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF:0,Bizzarro Movies (720p)
 #EXTVLCOPT:network-caching=1000
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
