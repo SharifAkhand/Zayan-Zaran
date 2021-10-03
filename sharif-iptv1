@@ -119,8 +119,6 @@ http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 http://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bflix Movies" tvg-logo="Logo N/A" group-title="Movi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="Movi",& Flix HD
-https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Dabaang" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi)",Dabaang
@@ -149,8 +147,6 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Movi",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Movi",Zee Cafe HD
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema UK
@@ -163,60 +159,73 @@ https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Movi",Zee TAMIL
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Movi", Zee Smile
+https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Movi", Zee Bolywood
+https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lollywood" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="Movi",Lollywood
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
 #EXTINF:72, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/357-3574866_tamil-tv-channel-logos.png" tvg-name="TAMIL TV"  group-title="Movi",TAMIL TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="BBO Classic" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",BBO Classic
+https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
+#EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="B4U Movies (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Movies
+http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:105, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/107-1070668_b4u-movies-indian-tv-channel-logo-png.png" tvg-name="B4U movies "  group-title="Movi",B4U movies 
 http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 tvg-id="B4UMusic(src07).in(m3u4u)" tvg-name="B4U Music" tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png" group-title="Movi",B4U Music
+http://14.199.164.20:4001/play/a0wh/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MH1 Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",MH1 Music
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:106, tvg-id="New EPG" tvg-logo="https://www.adgully.com/img/800/202005/b4u-bhojpuri_logo.png.jpg" tvg-name="B4U Bhojpuri "  group-title="Movi",B4U Bhojpuri 
 http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF:107, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/profile_images/418473106819121153/MsweKAdm_400x400.png" tvg-name="Bahar TV "  group-title="Movi",Bahar TV 
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:108, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1200px-7flix_logo_2020.svg.png" tvg-name="7flix "  group-title="Movi",7flix 
-https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-#EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="Movi",24 Hour Free Movies 
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Movi", Zee Smile
-https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Movi", Zee Bolywood
-https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movi", AXN
-http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movi", AXN
-http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movi",HITS Movie
-http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Movi", & Prive HD
-http://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v5a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgom/3i2U8HH.png" group-title="Movi", Action movie
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgurom/3i2U8HH.png" group-title="Movi", Action movie 2
-http://31.220.41.88:8081/live/us-hbo.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movi",HBO
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Movi",Al Fajer Movie
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Movi",Movie kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xplore Channel" tvg-logo="" group-title="Movi",Xplore Channel
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movi",HBO Hits
+
+
+
+#EXTINF:108, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1200px-7flix_logo_2020.svg.png" tvg-name="7flix "  group-title="English Movi",7flix 
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="English Movi",& Flix HD
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English Movi", & Prive HD
+http://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v5a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English Movi",Zee Cafe HD
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movi", AXN
+http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movi", AXN
+http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movi",HITS Movie
+http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgom/3i2U8HH.png" group-title="English Movi", Action movie
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgurom/3i2U8HH.png" group-title="English Movi", Action movie 2
+http://31.220.41.88:8081/live/us-hbo.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family (1)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="English Movi",HBO Family 
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="English Movi",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movi",HBO
+http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English Movi",Movie kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xplore Channel" tvg-logo="" group-title="English Movi",Xplore Channel
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="English Movi",24 Hour Free Movies 
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="English Movi",Cinemax
+http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 
 
 
-#EXTINF:0,B4U movies (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:0,B4U Plus (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0wi/index.m3u8
-#EXTINF:0,B4U Hitz (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0wh/index.m3u8
 #EXTINF:0,B4U Bhojpuri (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0nq/index.m3u8
@@ -235,12 +244,6 @@ https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:0,Zee Talkies (720p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:0,MH1 Music (360p)
-#EXTVLCOPT:network-caching=1000
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:0,3 Tamil TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:0,Fakt Marathi (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0q8/index.m3u8
@@ -253,12 +256,6 @@ https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
 #EXTINF:0,Surya TV (540p)
 #EXTVLCOPT:network-caching=1000
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
-#EXTINF:0,HBO Family East (1080p)
-#EXTVLCOPT:network-caching=1000
-https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:0,Cinemax East (360p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:0,Moovimex (720p)
 #EXTVLCOPT:network-caching=1000
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
