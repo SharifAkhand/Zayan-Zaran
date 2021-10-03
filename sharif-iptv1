@@ -181,38 +181,16 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 #EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="Movi",24 Hour Free Movies 
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-
-
-#EXTINF:0,Flowers TV (576p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:0,MH1 Music (360p)
-#EXTVLCOPT:network-caching=1000
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:0,Zee Aflam (720p)
-#EXTVLCOPT:network-caching=1000
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:0,Zee Alwan (720p)
-#EXTVLCOPT:network-caching=1000
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:0,Kairali We (576p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:0,Zee5 Originals (1080p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:0,Zee Classic (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:0,Zee Rajasthan (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:0,Zee Smile USA (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Movi", Zee Smile
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
-#EXTINF:0,Zee Talkies (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Movi", Zee Bolywood
+https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movi", AXN
+http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movi", AXN
+http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movi",HITS Movie
+http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Movi", & Prive HD
 http://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgom/3i2U8HH.png" group-title="Movi", Action movie
@@ -221,21 +199,71 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 http://31.220.41.88:8081/live/us-hbo.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movi",HBO
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Movi",Al Fajer Movie
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Movi",Movie kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xplore Channel" tvg-logo="" group-title="Movi",Xplore Channel
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movi",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
+
+
+
+#EXTINF:0,B4U Hitz (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0wh/index.m3u8
+#EXTINF:0,Zee Aflam (720p)
+#EXTVLCOPT:network-caching=1000
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:0,Zee Alwan (720p)
+#EXTVLCOPT:network-caching=1000
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:0,Zee5 Originals (1080p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:0,Zee Classic (576p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+#EXTINF:0,Zee Talkies (720p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
+#EXTINF:0,Flowers TV (576p)
+#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:0,MH1 Music (360p)
+#EXTVLCOPT:network-caching=1000
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:0,Kairali We (576p)
+#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:0,3 Tamil TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:0,Dabangg (576p)
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0nb/index.m3u8
+#EXTINF:0,Fakt Marathi (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0q8/index.m3u8
+#EXTINF:0,Kairali TV (576p)
+#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:0,Dream TV (720p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
+#EXTINF:0,Surya TV (540p)
+#EXTVLCOPT:network-caching=1000
+https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
 #EXTINF:0,HBO Family East (1080p)
 #EXTVLCOPT:network-caching=1000
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
-#EXTINF:0,HBO Hits (1080p)
-#EXTVLCOPT:network-caching=1000
-https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movi", AXN
-http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="Movi", AXN
-http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="Movi",HITS Movie
-http://93.190.139.35:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:0,Cinemax East (360p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
+#EXTINF:0,Moovimex (720p)
+#EXTVLCOPT:network-caching=1000
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:0,Star Plus
 #EXTVLCOPT:network-caching=1000
 https://t2.tvmak.com/tv/STARPLUS.m3u8
@@ -245,18 +273,9 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:0,STIRR Movies (720p)
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Movi",Al Fajer Movie
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Movi",Movie kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:0,Boo (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:0,Moovimex (720p)
-#EXTVLCOPT:network-caching=1000
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xplore Channel" tvg-logo="" group-title="Movi",Xplore Channel
-https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:0,Action Movies (720p)
 #EXTVLCOPT:network-caching=1000
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -266,9 +285,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
 #EXTINF:0,B4U Bhojpuri (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0nq/index.m3u8
-#EXTINF:0,B4U Hitz (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0wh/index.m3u8
 #EXTINF:0,Bizzarro Movies (720p)
 #EXTVLCOPT:network-caching=1000
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -290,24 +306,7 @@ http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8
 #EXTINF:0,Public Movies (576p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://14.199.164.20:4001/play/a0ll/index.m3u8
-#EXTINF:0,3 Tamil TV (720p)
-#EXTVLCOPT:network-caching=1000
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:0,Dabangg (576p)
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0nb/index.m3u8
-#EXTINF:0,Fakt Marathi (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0q8/index.m3u8
-#EXTINF:0,Kairali TV (576p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:0,Dream TV (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
-#EXTINF:0,Surya TV (540p)
-#EXTVLCOPT:network-caching=1000
-https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
+
 
 
 
