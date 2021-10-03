@@ -63,6 +63,8 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla",Doyel TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png" group-title="Bangla",NAN TV
+https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="MY TV" tvg-name="MY TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangla",MY TV
 https://rhridoy136.shortcm.li/mytv.m3u8
 #EXTINF:-1 tvg-id="MOHONA TV" tvg-name="MOHONA TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangla",MOHONA TV
@@ -155,36 +157,33 @@ http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 http://live.tamilvision.tv:8081/TVI/SD/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision Int'l (CA) (HD)" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Movi",Tamil Vision Int'l (CA) (HD)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:0,Kairali We (576p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:0,Zee5 Originals (1080p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:0,Zee Action (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Movi",Zee Action
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Movi",Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="Movi",Zee Cafe HD
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema UK
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="Movi",Zee Mundo
+https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+
+
+
 #EXTINF:0,Zee Aflam (720p)
 #EXTVLCOPT:network-caching=1000
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:0,Zee Alwan (720p)
 #EXTVLCOPT:network-caching=1000
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:0,Zee Anmol Cinema (576p)
+#EXTINF:0,Kairali We (576p)
 #EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-#EXTINF:0,Zee Bioskop (360p) [Geo-blocked]
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:0,Zee5 Originals (1080p)
 #EXTVLCOPT:network-caching=1000
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:0,Zee Cafe (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:0,Zee Cinema Middle East (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
-#EXTINF:0,Zee Cinema UK (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:0,Zee Classic (576p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
@@ -194,9 +193,6 @@ https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
 #EXTINF:0,Zee Marathi USA (576p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:0,Zee Mundo (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:0,Zee Punjabi (576p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
@@ -331,14 +327,13 @@ http://173.199.120.51/hls/chc.m3u8
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v1a1/mono.m3u8
-#EXTINF:0,Zee TV (480p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL" tvg-logo="https://www.adgully.com/img/400/202006/zee-anmol.jpeg" group-title="Hindi",ZEE ANMOL
+https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-#EXTINF:0,Zee TV APAC (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV HD
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
-#EXTINF:0,Zee TV Canada (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV HD Canada
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
 #EXTINF:0,Zee TV Middle East (576p)
 #EXTVLCOPT:network-caching=1000
@@ -346,8 +341,7 @@ https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 #EXTINF:0,Zee TV Russia (720p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
-#EXTINF:0,Zee TV USA (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV HD USA
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
 #EXTINF:0,KCV (720p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
