@@ -141,12 +141,6 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Movi",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:0,Flowers TV (576p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:0,MH1 Music (360p)
-#EXTVLCOPT:network-caching=1000
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Bollywood Classic" tvg-logo="" group-title="INDIA (New)",Shemaroo Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora Short Flim" tvg-logo="" group-title="Movi",Santhora Short Flim
@@ -169,9 +163,32 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="Movi",Zee Mundo
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Kalinga" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-odisha-45.png" group-title="Movi",Zee Kalinga
+https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Movi",Zee TAMIL
+https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lollywood" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="Movi",Lollywood
+https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
+#EXTINF:72, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/357-3574866_tamil-tv-channel-logos.png" tvg-name="TAMIL TV"  group-title="Movi",TAMIL TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+#EXTINF:105, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/107-1070668_b4u-movies-indian-tv-channel-logo-png.png" tvg-name="B4U movies "  group-title="Movi",B4U movies 
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:106, tvg-id="New EPG" tvg-logo="https://www.adgully.com/img/800/202005/b4u-bhojpuri_logo.png.jpg" tvg-name="B4U Bhojpuri "  group-title="Movi",B4U Bhojpuri 
+http://14.199.164.20:4001/play/a0nq/index.m3u8
+#EXTINF:107, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/profile_images/418473106819121153/MsweKAdm_400x400.png" tvg-name="Bahar TV "  group-title="Movi",Bahar TV 
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
+#EXTINF:108, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1200px-7flix_logo_2020.svg.png" tvg-name="7flix "  group-title="Movi",7flix 
+https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
+#EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="Movi",24 Hour Free Movies 
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
 
-
+#EXTINF:0,Flowers TV (576p)
+#EXTVLCOPT:network-caching=1000
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:0,MH1 Music (360p)
+#EXTVLCOPT:network-caching=1000
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:0,Zee Aflam (720p)
 #EXTVLCOPT:network-caching=1000
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
@@ -187,15 +204,6 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:0,Zee Classic (576p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:0,Zee Keralam HD (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
-#EXTINF:0,Zee Marathi USA (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:0,Zee Punjabi (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
 #EXTINF:0,Zee Rajasthan (576p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
@@ -205,14 +213,6 @@ https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 #EXTINF:0,Zee Talkies (720p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:72, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/357-3574866_tamil-tv-channel-logos.png" tvg-name="TAMIL TV"  group-title="Movi",TAMIL TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:105, tvg-id="New EPG" tvg-logo="https://www.seekpng.com/png/detail/107-1070668_b4u-movies-indian-tv-channel-logo-png.png" tvg-name="B4U movies "  group-title="Movi",B4U movies 
-http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:106, tvg-id="New EPG" tvg-logo="https://www.adgully.com/img/800/202005/b4u-bhojpuri_logo.png.jpg" tvg-name="B4U Bhojpuri "  group-title="Movi",B4U Bhojpuri 
-http://14.199.164.20:4001/play/a0nq/index.m3u8
-#EXTINF:107, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/profile_images/418473106819121153/MsweKAdm_400x400.png" tvg-name="Bahar TV "  group-title="Movi",Bahar TV 
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="Movi", & Prive HD
 http://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgom/3i2U8HH.png" group-title="Movi", Action movie
@@ -245,10 +245,6 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:0,STIRR Movies (720p)
 #EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:108, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1200px-7flix_logo_2020.svg.png" tvg-name="7flix "  group-title="Movi",7flix 
-https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
-#EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="Movi",24 Hour Free Movies 
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tW4xfS7.png" group-title="Movi",Al Fajer Movie
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Movi",Movie kingdom
