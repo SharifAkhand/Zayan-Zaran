@@ -49,7 +49,9 @@ http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 http://str24.l9574.com/518.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="Bangla",Bangla Channel
 http://str24.l9574.com/515.stream/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangla,Channel 23
+#EXTINF:-1 tvg-id="ext" tvg-name="Channel TT IPTV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Channel TT IPTV
+https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="35.Channel 23" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Channel 23
 http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qruo84PP04jnPb1rC1TR67DHd5gU9CfP8mZtdh2kVbbGB9equQKFIGjlYK4k62TJ8Yk" group-title="Bangla",CNN Bangla
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
@@ -57,10 +59,10 @@ https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangla",ITV
 http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla", My TV BD
-http://103.205.133.18/hls/mytv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4imblNY.jpg" group-title="Bangla", Mohona TV HD
-http://103.205.133.48/hls/mohonatv.m3u8
+#EXTINF:-1 tvg-id="MY TV" tvg-name="MY TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangla",MY TV
+https://rhridoy136.shortcm.li/mytv.m3u8
+#EXTINF:-1 tvg-id="MOHONA TV" tvg-name="MOHONA TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangla",MOHONA TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangla",Nagorik TV
 http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV HD
@@ -110,6 +112,8 @@ https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Movi", Zee Bolywood uk
 http://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bflix Movies" tvg-logo="Logo N/A" group-title="Movi",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:0,&Flix (720p)
 #EXTVLCOPT:network-caching=1000
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
@@ -124,9 +128,6 @@ http://14.199.164.20:4001/play/a0wj/index.m3u8
 http://14.199.164.20:4001/play/a0wi/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/786161573475733505/OcKY1UGl_400x400.jpg" group-title="Movi",Dabang TV
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
-#EXTINF:0,Bflix Movies (480p)
-#EXTVLCOPT:network-caching=1000
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Wow Cinema" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Movi",Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF:-1 tvg-id="BoxCinema(src07).in(m3u4u)" tvg-name="Box Cinema" tvg-logo="http://boxcinemedia.com/assets/img/logo.png" group-title="Movi",Box Cinema
