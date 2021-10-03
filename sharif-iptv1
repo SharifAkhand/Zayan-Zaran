@@ -120,6 +120,8 @@ https://rhridoy136.shortcm.li/dbcnews.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="News",DBC News Online (Youtube)
 https://www.youtube.com/watch?v=QHI8OhB5bd4
 
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Movi",Zee Bangla Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="Movi",Movie Bangla
@@ -152,10 +154,24 @@ https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Movi", Zee Bolywood
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://1.bp.blogspot.com/-zkSSBl9037I/YKAMUu2Km7I/AAAAAAAAAwg/qMP6SkOa33ExvkCXJ4AMg0M9vh21puFzgCLcBGAsYHQ/s16000/IMG_20210515_225227.jpg" Movi",Zee Aflam
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 tvg-logo=https://campaignme.com/wp-content/uploads/2020/04/Zee-Alwan_Final-Logo-s-600x354.jpg"Movi", Zee Alwan
+https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png"Movi"Zee5 Originals
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/0/00/Zee_Classic.png/revision/latest/scale-to-width-down/200?cb=20100709071245" Movi",Zee Classic
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+#EXTINF:-1 tvg-logo=https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png "Movi:,Zee Talkies
+https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bflix Movies" tvg-logo="Logo N/A" group-title="Movi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-logo=http://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg " Movi", B4U Plus
+http://14.199.164.20:4001/play/a0wi/index.m3u8
+#EXTINF:-1 tvg-logo=https://exchange4media.gumlet.io/news-photo/96777-B4UBhojpuri.jpg?format=webp&w=400&dpr=2.6"Movi",B4U Bhojpuri
+http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Dabaang" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Wow Cinema" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Movi",Wow Cinema
@@ -198,57 +214,25 @@ http://14.199.164.20:4001/play/a0nq/index.m3u8
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-
-#EXTINF:0,B4U Plus (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0wi/index.m3u8
-#EXTINF:0,B4U Bhojpuri (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0nq/index.m3u8
-#EXTINF:0,Zee Aflam (720p)
-#EXTVLCOPT:network-caching=1000
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-#EXTINF:0,Zee Alwan (720p)
-#EXTVLCOPT:network-caching=1000
-https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:0,Zee5 Originals (1080p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:0,Zee Classic (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
-#EXTINF:0,Zee Talkies (720p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:0,Fakt Marathi (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/05/05/fakte-marathi_0.jpg"MOvi",Fakt Marathi
 http://14.199.164.20:4001/play/a0q8/index.m3u8
-#EXTINF:0,Kairali TV (576p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://w7.pngwing.com/pngs/276/443/png-transparent-television-channel-malayalam-kairali-tv-television-show-cpim-television-text-logo.png " Movi",Kairali TV 
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:0,Dream TV (720p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://www.pngkit.com/png/full/4-40364_dream-tv-dream-tv-logo-png.png " Movi", Dream TV
 https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
-#EXTINF:0,Surya TV (540p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/3/38/Surya_Tv_2014.png"MOvi",Surya TV 
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
-#EXTINF:0,Manoranjan Grand (480p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg/revision/latest/scale-to-width-down/300?cb=20191220115523"Movi",Manoranjan Grand TV
 http://14.199.164.20:4001/play/a0m2/index.m3u8
-#EXTINF:0,Uthradam Movies (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://img.androidfreeware.net/screens/BcFBCoMwEADAF8Ug6qG9iQTFhhJP4klE1w0Ys7ZZhfh6ZyzzEd5SHm6KwtkEidDBGeA_k2fwnMy0y65NlyGluhxDrve8yu71J1Q_aV34nu8XWhyUOMMFm4FvY-qSxEU-A9WauH2iwgc/com-tv-uthradam-3.jpg"Movi",Uthradam Movies
 http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8
-#EXTINF:0,Public Movies (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/5/54/Public_Movies.jpg/revision/latest?cb=20190711115405"MOvi",Public Movies 
 http://14.199.164.20:4001/play/a0ll/index.m3u8
-#EXTINF:0,Bizzarro Movies (720p)
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://easysite.one/img/BizzarroMovies.png"Movi",Bizzarro Movies 
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:0,Dhinchaak (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg/revision/latest?cb=20200719093053"Movi",Dhinchaak TV
 http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:0,Dhinchaak 2 (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 tvg-logo=https://www.trackdish.com/wp-content/uploads/2021/04/dhinchaak-2-channel-logo-min.jpg" Movi",Dhinchaak 2 TV
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 
 
