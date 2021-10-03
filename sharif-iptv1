@@ -85,6 +85,12 @@ https://www.youtube.com/watch?v=q6m9zBRFLEA
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=https://pavilion.com.bd/pavupload/post/19266/thumbnail/21668-1614834023973-ss.jpg" group title=Bangla", Rabbithole bd sports (Youtube)
 https://www.youtube.com/watch?v=IplKbP_2dk0
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png "Bangla", Asian Tv Online (Youtube)
+https://www.youtube.com/watch?v=nvy5-QSn0bM
+#EXTINF:-1 tvg-logo=https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" Bangla", R Tv Online (Youtube)
+https://www.youtube.com/watch?v=OA0ca-dct8I
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 http://173.199.120.51/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema HD
@@ -111,7 +117,8 @@ https://rhridoy136.shortcm.li/independenttv.m3u8
 http://10.16.100.205:8082/bangla/ekattor_tv_local_bD.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="News",DBC News
 https://rhridoy136.shortcm.li/dbcnews.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="News",DBC News Online (Youtube)
+https://www.youtube.com/watch?v=QHI8OhB5bd4
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla Cinema [IN]" tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="Movi",Zee Bangla Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
