@@ -357,25 +357,14 @@ https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:0,B4U Music (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:0,Zee5 Romance (1080p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
-#EXTINF:0,Zee Bihar Jharkhand (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-#EXTINF:0,Zee Music (576p)
-#EXTVLCOPT:network-caching=1000
-https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
-#EXTINF:0,Magna Vision (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music India" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="Music",9X Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9X Jhakaas" tvg-logo="https://bit.ly/3aycxVe" group-title="Music",9X Jhakaas
+http://14.199.164.20:4001/play/a0mx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii" tvg-logo="" group-title="Music",Mastiii
@@ -396,7 +385,7 @@ http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?token=soheliptv01826655778
-#EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",135.Kadak Hits
+#EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
@@ -420,12 +409,10 @@ https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:56, tvg-id="New EPG" tvg-logo="http://cdn.teleon.tv/logo/mn-tv-music-in.png" tvg-name="MN TV MUSIC "  group-title="Music",MN TV MUSIC 
 http://mntv.livebox.co.in/musichls/live.m3u8
-#EXTINF:0,9X Jhakaas (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0mx/index.m3u8
-#EXTINF:0,Music India (360p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+#EXTINF:-1 tvg-id="1hdru" tvg-name="1HD Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:118, tvg-id="New EPG" tvg-logo="https://zuflix.io/uploads/tv_image/jhanjar-music.jpg" tvg-name="Music Jhanjar HD"  group-title="Music",Music Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:119, tvg-id="New EPG" tvg-logo="https://www.coolstreaming.us/img/ch/image2391130104.jpg" tvg-name="TMA"  group-title="Music",TMA
@@ -434,25 +421,10 @@ http://hls.tmacaraibes.com/live/index.m3u8
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:121, tvg-id="New EPG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082019/screenshot_2019-08-14-21-13-46-646_cobos.svgviewer.png?lQ0pppB.jg9wsPCryJSj2fjoCvTBBcil&itok=dO_09vxU" tvg-name="1Music Channel Hungary "  group-title="Music",1Music Channel Hungary 
 http://1music.hu/1music.m3u8
-#EXTVLCOPT:network-caching=1000
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:0,Jhanjar Music [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:0,Mtunes Plus (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:0,PMC (1080p)
-#EXTVLCOPT:network-caching=1000
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:0,Public Music (576p)
-#EXTVLCOPT:network-caching=1000
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:0,Show Box (576p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://14.199.164.20:4001/play/a0o8/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Plus" tvg-logo="" group-title="Music",Desi Plus
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Plus" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="Music",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новое" tvg-logo="" group-title="Music",Новое
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="" group-title="Music",МузСоюз
@@ -477,8 +449,32 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8?token=sohel
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Music",138.Bol Hadippa
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Punjabi TV" tvg-logo="" group-title="Music",Shemaroo Punjabi TV
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+
+
+#EXTINF:0,B4U Music (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0wk/index.m3u8
+#EXTINF:0,Zee5 Romance (1080p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:0,Zee Bihar Jharkhand (576p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
+#EXTINF:0,Zee Music (576p)
+#EXTVLCOPT:network-caching=1000
+https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
+#EXTINF:0,Magna Vision (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
+#EXTINF:0,Mtunes Plus (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:0,PMC (1080p)
+#EXTVLCOPT:network-caching=1000
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:0,Show Box (576p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://14.199.164.20:4001/play/a0o8/index.m3u8
 
 
 #EXTINF:43, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" tvg-name="ATN  ISLAMIC"  group-title="ISLAMIC",ATN  ISLAMIC
