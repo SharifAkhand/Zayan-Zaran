@@ -497,6 +497,10 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 
 #EXTINF:48, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T SPORTS"  group-title="Sports",T SPORTS
 http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="T Sports [1]" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",T Sports [1]
+http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Sony Six HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sony Six HD
+http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:137, tvg-id="New EPG" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/07/13/DD%20Sports.jpg?itok=MJDdii0j" tvg-name="DD SPORTS"  group-title="Sports",DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:138, tvg-id="New EPG" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2021/02/oman-sport.png" tvg-name="OMAN SPORTS"  group-title="Sports",OMAN SPORTS
@@ -523,6 +527,43 @@ http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chu
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/imagec5ef8fcea3c5fef5.png" group-title="Sports",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="adSports1 FHD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",adSports1 FHD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="adSports2 FHD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",adSports2 FHD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Racing TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Racing TV
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="Racing.com" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Rai Sport
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8?Live-TV™
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 1 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 1 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/350.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 2 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 2 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/351.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 3 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 3 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/352.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 4 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 4 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/353.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 5 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 5 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/354.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 6 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 6 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/355.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 7 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 7 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/356.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 8 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 8 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/357.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 9 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 9 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/358.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="|best|BEINSPORTS 10 ʰᵈ" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",|best|BEINSPORTS 10 ʰᵈ
+http://superiptvhd.ddns.me:81/live/DominoIPTV/0OornsbnXU/359.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="US Sports" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",US Sports
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-id="Sky2(src01).uk(m3u4u)" tvg-name="Sky 2 HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sky 2 HD
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+
+
 
 
 
