@@ -168,13 +168,13 @@ https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Movi", Zee Bolywood
 https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zkSSBl9037I/YKAMUu2Km7I/AAAAAAAAAwg/qMP6SkOa33ExvkCXJ4AMg0M9vh21puFzgCLcBGAsYHQ/s16000/IMG_20210515_225227.jpg" group-title=" Movi",Zee Aflam
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zkSSBl9037I/YKAMUu2Km7I/AAAAAAAAAwg/qMP6SkOa33ExvkCXJ4AMg0M9vh21puFzgCLcBGAsYHQ/s16000/IMG_20210515_225227.jpg" group-title="Movi",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 tvg-logo="https://campaignme.com/wp-content/uploads/2020/04/Zee-Alwan_Final-Logo-s-600x354.jpg" group-title="Movi", Zee Alwan
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Zee5_Official_logo.svg/1200px-Zee5_Official_logo.svg.png" group-title="Movi"Zee5 Originals
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Zee_Classic.png/revision/latest/scale-to-width-down/200?cb=20100709071245" group-title=" Movi",Zee Classic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Zee_Classic.png/revision/latest/scale-to-width-down/200?cb=20100709071245" group-title="Movi",Zee Classic
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png" group-title="Movi",Zee Talkies
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
@@ -182,7 +182,7 @@ https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title= " Movi", B4U Plus
+#EXTINF:-1 tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title= "Movi", B4U Plus
 http://14.199.164.20:4001/play/a0wi/index.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/96777-B4UBhojpuri.jpg?format=webp&w=400&dpr=2.6" group-title="Movi",B4U Bhojpuri
 http://14.199.164.20:4001/play/a0nq/index.m3u8
@@ -230,9 +230,9 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/05/05/fakte-marathi_0.jpg" group-title="MOvi",Fakt Marathi
 http://14.199.164.20:4001/play/a0q8/index.m3u8
-#EXTINF:-1 tvg-logo=https://w7.pngwing.com/pngs/276/443/png-transparent-television-channel-malayalam-kairali-tv-television-show-cpim-television-text-logo.png" group-title= " Movi",Kairali TV 
+#EXTINF:-1 tvg-logo=https://w7.pngwing.com/pngs/276/443/png-transparent-television-channel-malayalam-kairali-tv-television-show-cpim-television-text-logo.png" group-title="Movi",Kairali TV 
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 tvg-"logo=https://www.pngkit.com/png/full/4-40364_dream-tv-dream-tv-logo-png.png" group-title= " Movi", Dream TV
+#EXTINF:-1 tvg-"logo=https://www.pngkit.com/png/full/4-40364_dream-tv-dream-tv-logo-png.png" group-title="Movi", Dream TV
 https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Surya_Tv_2014.png" group-title="MOvi",Surya TV 
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
@@ -246,7 +246,7 @@ http://14.199.164.20:4001/play/a0ll/index.m3u8
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg/revision/latest?cb=20200719093053" group-title="Movi",Dhinchaak TV
 http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.trackdish.com/wp-content/uploads/2021/04/dhinchaak-2-channel-logo-min.jpg" group-title=" Movi",Dhinchaak 2 TV
+#EXTINF:-1 tvg-logo="https://www.trackdish.com/wp-content/uploads/2021/04/dhinchaak-2-channel-logo-min.jpg" group-title="Movi",Dhinchaak 2 TV
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 
 
@@ -283,23 +283,23 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="English Movi",Cinemax
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/moviemax.png" English Movi",Moovimex tv
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/moviemax.png" group-title="English Movi",Moovimex tv
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="AlFajer MOVIE" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="English Movi",AlFajer MOVIE
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.imgurom/3i2U8HH.png" group-title="English Movi", Action movie 2
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.favpng.com/2/16/7/star-india-television-channel-star-tv-star-china-media-png-favpng-kucM2ECpm6UCRLcbYngaad3gm_t.jpg" group-title=" English Movi",Sttar Plus tv
+#EXTINF:-1 tvg-logo="https://img.favpng.com/2/16/7/star-india-television-channel-star-tv-star-china-media-png-favpng-kucM2ECpm6UCRLcbYngaad3gm_t.jpg" group-title="English Movi",Sttar Plus tv
 https://t2.tvmak.com/tv/STARPLUS.m3u8
 #EXTINF:-1 tvg-logo="https://moneyfocus.com/wp-content/uploads/2019/01/STIRR-Free-Live-And-On-Demand-Streaming-Service-2.png" group-title="English Movi",STIRR MovieMix tv
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="English Movi", Star Movies tv 
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/162331/hdtvlogo/boo-59ca2fd21bfdd.png" group-title=" English Movi", Boo Tv
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/162331/hdtvlogo/boo-59ca2fd21bfdd.png" group-title="English Movi", Boo Tv
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/81211/clearlogo/Asylum-81211.png" group-title=" English Movi",Asylum tv 
+#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/81211/clearlogo/Asylum-81211.png" group-title="English Movi",Asylum tv 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/2245835/875224be7bff9da5e5de8d7275fcfc5ddcf634ee.png" group-title=" English Movi",Crackle tv 
+#EXTINF:-1 tvg-logo="https://theme.zdassets.com/theme_assets/2245835/875224be7bff9da5e5de8d7275fcfc5ddcf634ee.png" group-title="English Movi",Crackle tv 
 https://crackle-plex.amagi.tv/playlist.m3u8
 
 
