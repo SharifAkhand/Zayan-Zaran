@@ -371,7 +371,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?token=soheliptv0
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_news_bihar_jharkhand.png/revision/latest/scale-to-width-down/300?cb=20210510112212" group-title="Music",Zee Bihar Jharkhand
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/ZeeMusicCo.jpg" group-title=" Music",Zee Music
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/ZeeMusicCo.jpg" group-title="Music",Zee Music
 https://f8e7y4c6.ssl.hwcdn.net/magic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.clipartmax.com/png/middle/110-1105219_b4u-music-b4u-music-logo-png.png" group-title="Music",B4U Music
 http://14.199.164.20:4001/play/a0wk/index.m3u8
@@ -455,11 +455,11 @@ https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8?token=sohel
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="" group-title="Music",138.Bol Hadippa
 https://live.hungama.com/linear/bol-hadippa/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://i.playboard.app/p/AATXAJzChqx3C69jlxfIPcWvA8bCttLVvu3ycl66nb5IGw/default.jpg" group-title=" Music",Magna Vision tv
+#EXTINF:-1 tvg-logo="https://i.playboard.app/p/AATXAJzChqx3C69jlxfIPcWvA8bCttLVvu3ycl66nb5IGw/default.jpg" group-title="Music",Magna Vision tv
 https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="Music",Mtunes Plus 
 http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title=" Music",PMC Tv
+#EXTINF:-1 tvg-logo="https://www.pmc.tv/assets/upload/pmc.png" group-title="Music",PMC Tv
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180622/cv/kisspng-television-show-showbox-show-off-ya-tints-pendafle-5b2d55ba1e6f74.9643934615296977221247.jpg" group-title="Music",Show Box  tv 
 http://14.199.164.20:4001/play/a0o8/index.m3u8
