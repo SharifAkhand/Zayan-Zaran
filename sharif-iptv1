@@ -129,6 +129,8 @@ http://otv.ftpbd.net/streams/115/index.m3u8
 http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Bangla",Sony Aath
 http://103.205.133.21/hls/sony8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="Bangla",Sony Aath [1]
+http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD2
@@ -334,8 +336,10 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://t2.tvmak.com/tv/STARPLUS.m3u8
 #EXTINF:-1 tvg-logo="https://moneyfocus.com/wp-content/uploads/2019/01/STIRR-Free-Live-And-On-Demand-Streaming-Service-2.png" group-title="English Movi",STIRR MovieMix tv
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="English Movi", Star Movies tv 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="English Movi", Star Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English Movi", Star Movies Select HD
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/162331/hdtvlogo/boo-59ca2fd21bfdd.png" group-title="English Movi", Boo Tv
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/81211/clearlogo/Asylum-81211.png" group-title="English Movi",Asylum tv 
@@ -346,6 +350,9 @@ https://crackle-plex.amagi.tv/playlist.m3u8
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/kF4IuuV.png" group-title="English Movi",V Channel
 http://45.126.83.51/qwr9ew/s/s41/index.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
@@ -440,7 +447,7 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-logo="https://bhojpurihungama.net/images/mast.png" group-title="Music",138.Bhojpuri Hungama
+#EXTINF:-1 tvg-logo="https://bhojpurihungama.net/images/mast.png" group-title="Music",Bhojpuri Hungama
 https://live.hungama.com/linear/dhamaal/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK Tunes" tvg-logo="" group-title="Music",MK Tunes
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
@@ -517,10 +524,10 @@ http://14.199.164.20:4001/play/a0o8/index.m3u8
 
 #EXTINF:43, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" tvg-name="ATN  ISLAMIC"  group-title="ISLAMIC",ATN  ISLAMIC
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnislamictv.stream/chunks.m3u8
-#EXTINF:45, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReU-68kG3UJwtDvnMmamlasX3NnE_m5kw5-ltVOs8p3GRfvebWwwNA-yXfZEP2jxk4ZjM&usqp=CAU" tvg-name="PEACE TV BANGLA"  group-title="ISLAMIC",PEACE TV BANGLA
-#EXTINF:-1 tvg-logo="http://www.peacetv.tv/templates/images/english-logo.png"group-title="Indian Bangla",60.Peace TV Bangla
 #EXTINF:125, tvg-id="New EPG" tvg-logo="https://www.tv14.net/wp-content/uploads/2013/03/Makkah-TV-logo-Saudi-Arabia.jpg" tvg-name="Makkah TV"  group-title="ISLAMIC",Makkah TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="ISLAMIC",Peace Tv Bangla
+http://103.205.133.48/hls/peacetv.m3u8
 #EXTINF:126, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png" tvg-name="Peace TV"  group-title="ISLAMIC",Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:127, tvg-id="New EPG" tvg-logo="https://img.favpng.com/8/22/22/saudi-arabia-quran-television-channel-on-e-png-favpng-KdCbupqtLFqVqu5ynu819xfrQ.jpg" tvg-name="Saudi Quran"  group-title="ISLAMIC",Saudi Quran
@@ -683,7 +690,8 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
 http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Discovery", History Channel
 http://stream.tvtap.live:8081/live/us-history.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Discovery", travel master
+http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist_w363623166.m3u8
 
 
 #EXTINF:139, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png" tvg-name="FASHION TV"  group-title="FASHION",FASHION TV
@@ -692,5 +700,7 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="FASHION", TLC SD Hindi2
 https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="FASHION", Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dove Channel" tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="FASHION",Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
