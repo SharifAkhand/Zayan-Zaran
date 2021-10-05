@@ -209,12 +209,20 @@ https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgd
 http://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Movi", & Pictures HD
 https://ultimateiptv.tk/g.php?id=out/v1/ae9617b9d66d4564831443eb2cc15caf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Movi", SONY MAX
+https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg/revision/latest/scale-to-width-down/200?cb=20161126174300" group-title="Movi", SONY SAB HD
+http://voxtv.dynns.com:8000/movies/movies/502
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Movi", Star Gold 2 4K
 http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Movi", Star Gold HD
 http://137.59.155.77:8088/hls/11stargold.m3u8
+#EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20170306/c0a0c8607691347e22942f2b86473199.jpg" group-title="Movi", STAR GOLD SELECT HD
+http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20190712150244" group-title="Movi",STAR UTSAV MOVIES
+http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema UK
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema
@@ -329,6 +337,11 @@ https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK Six" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/07/071034c14a6fe4b2b19a4aeb9d17c383.png" group-title="Movi",FILMY
+http://123.249.76.157:10020/bysid/9
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/Videocon-d2h-Logo-1-2.jpg" group-title="MOvi", D2H CINEMA HD
+http://103.205.133.44:1935/ns/D2HCINEMAHD/playlist.m3u8
+
 
 
 
@@ -400,6 +413,8 @@ http://feed.play.mv/live/10005200/7Lc21Ikj4q/1.m3u8
 http://173.199.120.51/hls/chsp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi", Star Plus HD2
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310"group-title="Hindi", STAR BHARAT HD
+http://103.205.133.44:1935/ns/STARBHARATHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD1
 http://173.199.120.51/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD2
@@ -440,7 +455,8 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MK TV (New!)" tvg-logo="https://i.imgur.com/EU8ibyK.png" group-title="Hindi",MK TV (New!)
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-
+#EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/sahara-one-logo-1.jpg" group-title="Hindi",SAHARA ONE
+http://123.249.76.157:10020/bysid/1
 
 #EXTINF:0 tvg-logo="https://i.extraimage.info/pix/2020/06/18/ATNMusicf21ec.jpg" group-title="Music",ATN Music
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8?nimblesessionid=266010992&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDEwOjE4OjU4IEFNJmhhc2hfdmFsdWU9M2RpNnFKV2VlRkt3VVVQejFxYy9hdz09JnZhbGlkbWludXRlcz02MCZpZD01
