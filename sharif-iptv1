@@ -27,6 +27,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
 http://tv.univisionlive.net:25461/rifat89/22216989/1993
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD [1]
+http://stream.dhakaflix.com:8081/hls/deeptotv.m3u8/l_55_22704426_660.ts?nimblesessionid=2053896
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kDmkexe.png" group-title="Bangla", Bijoy TV
 https://rhridoy136.shortcm.li/bijoytv.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangla",Anando TV
@@ -613,7 +615,7 @@ http://wpso.com:1936/hls/kidshd.m3u8
 
 
 #EXTINF:48, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" tvg-name="T SPORTS"  group-title="Sports",T SPORTS
-http://otv.ftpbd.net/streams/121/index.m3u8
+http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8?nimblesessionid=2053876
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="T Sports [1]" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",T Sports [1]
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="T Sports 2" tvg-logo="http://10.16.100.244/files/tsports(1).png" group-title="Sports",T Sports [2]
