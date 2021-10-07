@@ -286,9 +286,9 @@ https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 http://51.52.156.22:8888/http/009
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bflix Movies" tvg-logo="Logo N/A" group-title="Movi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BBO" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=truehttps://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",BBO
+#EXTINF:-1 tvg-id="ext" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movi", BBO
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BBO Classic" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",BBO Classic
+#EXTINF:-1 tvg-id="ext" tvg-name="BBO Classic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/TBO_CLASSIC_TV.jpg" group-title="Movi", BBO Classic
 https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg/revision/latest?cb=20200719093053" group-title="Movi",Dhinchaak TV
 http://14.199.164.20:4001/play/a0o5/index.m3u8
