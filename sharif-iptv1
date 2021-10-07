@@ -298,8 +298,14 @@ http://14.199.164.20:4001/play/a0tm/index.m3u8
 http://103.153.39.34:8000/play/a06o/20555633.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXt7K10kZzu0Lo2xK6YbkcFe2C4ShIqGtJ7w&usqp=CAU" group-title="Movi",UTV Action [1]
 http://otv.ftpbd.net/streams/124/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Movi", Colors Cineplex HD
+#EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Movi", COLORS CINEPLEX
+https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928233543372120_cineplex-hd.png"  group-title="Movi",COLORS CINEPLEX HD
+http://103.205.133.44:1935/ns/CINEPLEXHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Movi", Colors Cineplex HD [1]
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Rishtey_Cineplex.png/revision/latest/scale-to-width-down/250?cb=20190308001642" group-title="Movi", RISHTEY CINEPLEX
+https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title= "Movi", B4U Plus
@@ -352,17 +358,17 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Flowers TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/05/05/fakte-marathi_0.jpg" group-title="MOvi",Fakt Marathi
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/05/05/fakte-marathi_0.jpg" group-title="Movi",Fakt Marathi
 http://14.199.164.20:4001/play/a0q8/index.m3u8
 #EXTINF:-1 tvg-logo=https://w7.pngwing.com/pngs/276/443/png-transparent-television-channel-malayalam-kairali-tv-television-show-cpim-television-text-logo.png" group-title="Movi",Kairali TV 
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 #EXTINF:-1 tvg-"logo=https://www.pngkit.com/png/full/4-40364_dream-tv-dream-tv-logo-png.png" group-title="Movi", Dream TV
 https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Surya_Tv_2014.png" group-title="MOvi",Surya TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Surya_Tv_2014.png" group-title="Movi",Surya TV 
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.androidfreeware.net/screens/BcFBCoMwEADAF8Ug6qG9iQTFhhJP4klE1w0Ys7ZZhfh6ZyzzEd5SHm6KwtkEidDBGeA_k2fwnMy0y65NlyGluhxDrve8yu71J1Q_aV34nu8XWhyUOMMFm4FvY-qSxEU-A9WauH2iwgc/com-tv-uthradam-3.jpg" group-title="Movi",Uthradam Movies
 http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Public_Movies.jpg/revision/latest?cb=20190711115405" group-title="MOvi",Public Movies 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Public_Movies.jpg/revision/latest?cb=20190711115405" group-title="Movi",Public Movies 
 http://14.199.164.20:4001/play/a0ll/index.m3u8
 #EXTINF:-1 tvg-logo="https://easysite.one/img/BizzarroMovies.png" group-title="Movi",Bizzarro Movies 
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
@@ -372,23 +378,17 @@ https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?Live-TVâ„
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/07/071034c14a6fe4b2b19a4aeb9d17c383.png" group-title="Movi",FILMY
 http://123.249.76.157:10020/bysid/9
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/Videocon-d2h-Logo-1-2.jpg" group-title="MOvi", D2H CINEMA HD
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/Videocon-d2h-Logo-1-2.jpg" group-title="Movi", D2H CINEMA HD
 http://103.205.133.44:1935/ns/D2HCINEMAHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="MOvi", COLORS CINEPLEX
-https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928233543372120_cineplex-hd.png"  group-title="MOvi",COLORS CINEPLEX HD
-http://103.205.133.44:1935/ns/CINEPLEXHD/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Rishtey_Cineplex.png/revision/latest/scale-to-width-down/250?cb=20190308001642" group-title="MOvi", RISHTEY CINEPLEX
-https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/357-3575243_telugu-tv-channel-logos-jai-andhra.png" group-title="MOvi", CLASSICS TELUGU
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/357-3575243_telugu-tv-channel-logos-jai-andhra.png" group-title="Movi", CLASSICS TELUGU
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/chunklist_w317513876_b1296000.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Vissa_TV.jpeg/revision/latest?cb=20191226110329" group-title="MOvi", VISSA TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Vissa_TV.jpeg/revision/latest?cb=20191226110329" group-title="Movi", VISSA TV
 https://z5ams.akamaized.net/vissatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/674/166/png-clipart-gemini-tv-logo-gemini-movies-udaya-tv-gemini-comedy-others-television-text.png" group-title="MOvi",  GEMINI MOVIES
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/674/166/png-clipart-gemini-tv-logo-gemini-movies-udaya-tv-gemini-comedy-others-television-text.png" group-title="Movi", GEMINI MOVIES
 http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Gemini_Movies&q=600&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Gemini_Movies_HD.jpg/revision/latest/scale-to-width-down/220?cb=20171230113018" group-title="MOvi",  GEMINI MOVIES HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Gemini_Movies_HD.jpg/revision/latest/scale-to-width-down/220?cb=20171230113018" group-title="Movi", GEMINI MOVIES HD
 http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Gemini_Movies_HD&q=600&e=.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg/revision/latest/scale-to-width-down/220?cb=20180603180559" group-title="MOvi",  ETV CINEMA
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg/revision/latest/scale-to-width-down/220?cb=20180603180559" group-title="Movi", ETV CINEMA
 https://msluk2s.akamaized.net/hls/live/2000134/etvcinemamsl/etvcinema_2000/chunklist.m3u8
 #EXTINF:-1 tvg-id="OneTv.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/ssMOeaj.png" group-title="Movi",One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
@@ -476,7 +476,7 @@ https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English Movi", Star Movies Select HD
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/162331/hdtvlogo/boo-59ca2fd21bfdd.png" group-title="English Movi", Boo Tv
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png" group-title="English Movi", Boo Tv
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/81211/clearlogo/Asylum-81211.png" group-title="English Movi",Asylum tv 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-theasylum/CDN/playlist.m3u8
