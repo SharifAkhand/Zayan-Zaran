@@ -97,7 +97,7 @@ http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 https://www.youtube.com/watch?v=q6m9zBRFLEA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pavilion.com.bd/pavupload/post/19266/thumbnail/21668-1614834023973-ss.jpg" group title="Bangla",Rabbithole bd sports (Youtube)
+#EXTINF:-1 tvg-logo="https://pavilion.com.bd/pavupload/post/19266/thumbnail/21668-1614834023973-ss.jpg" group title="Bangla", Rabbithole bd sports (Youtube)
 https://www.youtube.com/watch?v=IplKbP_2dk0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png " group-title="Bangla", Asian Tv Online (Youtube)
 https://www.youtube.com/watch?v=nvy5-QSn0bM
@@ -242,7 +242,7 @@ http://137.59.155.77:8088/hls/11stargold.m3u8
 http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20190712150244" group-title="Movi",STAR UTSAV MOVIES
 http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
-#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Movi",Zee5 Originals (1080p)
+#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Movi", Zee5 Originals (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-nJW4kDR4RKw/X56XelsO1CI/AAAAAAAAC90/wUrtQxLUx1QzDF3OE79TGhkpmuHunPlfwCLcBGAsYHQ/s600/09zeecinemazeecinema.jpg" group-title="Movi",Zee Cinema UK
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
@@ -308,7 +308,7 @@ http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="B4U Kadak" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title= "Movi", B4U Plus
+#EXTINF:-1 tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title="Movi", B4U Plus
 http://14.199.164.20:4001/play/a0wi/index.m3u8
 #EXTINF:-1 tvg-id="B4UHitz.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/11591447-46ac-487e-ac65-d8c20a5d18a0.png" group-title="Movi",B4U Hitz (720p) [Not 24/7]
 http://14.199.164.20:4001/play/a0wh/index.m3u8
@@ -516,9 +516,9 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV HD Canada
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Zee_TV_2011.png/revision/latest?cb=20110926114755"Hindi",Zee TV Middle East 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Zee_TV_2011.png/revision/latest?cb=20110926114755" group-title="Hindi", Zee TV Middle East 
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Zee_TV_Russia_2014.png/revision/latest/scale-to-width-down/200?cb=20171031193005"Hindi",Zee TV Russia 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Zee_TV_Russia_2014.png/revision/latest/scale-to-width-down/200?cb=20171031193005" group-title="Hindi",Zee TV Russia 
 https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV HD USA
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
