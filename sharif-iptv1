@@ -635,8 +635,12 @@ http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 https://z5ams.akamaized.net/rajmusixtel/tracks-v1a1/mono.m3u8
 #EXTINF:119, tvg-id="New EPG" tvg-logo="https://www.coolstreaming.us/img/ch/image2391130104.jpg" tvg-name="TMA"  group-title="Music",TMA
 http://hls.tmacaraibes.com/live/index.m3u8
+#EXTINF:119, tvg-id="New EPG" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c9a9d8fefa3f9f76de7d86a7fa400e35.webp" tvg-name="PBN MUSIC"  group-title="Music", PBN MUSIC
+http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pop HUNGAMA" tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png" group-title="Music",Pop HUNGAMA
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music.jpg/revision/latest?cb=20191217212601" group-title="Music", PTC MUSIC
+http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
 #EXTINF:120, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/W47I341U0QIBlcsPtSLSuDVad32ck2MsvzqJShVM2pCACyEyFNzKaC75FsRFJvaH-syJWCnE9TpWPIJ-nQJ2SmiEejCETWszo7NDOL02lhDzYXR4ag" tvg-name="Xalastra TV"  group-title="Music",Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 #EXTINF:121, tvg-id="New EPG" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082019/screenshot_2019-08-14-21-13-46-646_cobos.svgviewer.png?lQ0pppB.jg9wsPCryJSj2fjoCvTBBcil&itok=dO_09vxU" tvg-name="1Music Channel Hungary "  group-title="Music",1Music Channel Hungary 
@@ -683,7 +687,10 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180622/cv/kisspng-television-show-showbox-show-off-ya-tints-pendafle-5b2d55ba1e6f74.9643934615296977221247.jpg" group-title="Music",Show Box  tv 
 http://14.199.164.20:4001/play/a0o8/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/xh1UnwlFizOM-kPEpbqo0di0X9d_rPm19KS6JaR-3ZppkT64pbtunLRP9iL8njuO0Q7y" group-title="Music",SHAN PUNJABI TV
+http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jus_punjabi_logo.svg/1280px-Jus_punjabi_logo.svg.png" group-title="Music",JUS PUNJABI HD
+http://jiocgwhub.jio.ril.com/JUSPunjabi/JUSPunjabi_600.m3u8
 
 
 
