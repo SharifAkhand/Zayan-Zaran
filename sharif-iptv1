@@ -97,7 +97,7 @@ http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
 https://www.youtube.com/watch?v=q6m9zBRFLEA
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla",Maasranga HD
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://pavilion.com.bd/pavupload/post/19266/thumbnail/21668-1614834023973-ss.jpg" group title=Bangla", Rabbithole bd sports (Youtube)
+#EXTINF:-1 tvg-logo="https://pavilion.com.bd/pavupload/post/19266/thumbnail/21668-1614834023973-ss.jpg" group title="Bangla",Rabbithole bd sports (Youtube)
 https://www.youtube.com/watch?v=IplKbP_2dk0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png " group-title="Bangla", Asian Tv Online (Youtube)
 https://www.youtube.com/watch?v=nvy5-QSn0bM
@@ -516,7 +516,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV HD Canada
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Zee_TV_2011.png/revision/latest?cb=20110926114755" Hindi",Zee TV Middle East 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/38/Zee_TV_2011.png/revision/latest?cb=20110926114755"Hindi",Zee TV Middle East 
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Zee_TV_Russia_2014.png/revision/latest/scale-to-width-down/200?cb=20171031193005"Hindi",Zee TV Russia 
 https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
