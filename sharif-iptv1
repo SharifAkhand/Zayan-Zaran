@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad tv
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
@@ -565,8 +565,10 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8?token=sohe
 http://14.199.164.20:4001/play/a0mx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RCKpn0U.png" group-title="Music", 9X Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii" tvg-logo="" group-title="Music",Mastiii
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mastiii" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Mastiii_Sabgroup.jpg/revision/latest/scale-to-width-down/300?cb=20190204154331" group-title="Music",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="https://static.wikia.nocookie.net/logopedia/images/e/e8/Mastiii_2016.png/revision/latest?cb=20190204154300" group-title="Music",MASTI TV
+http://103.228.112.96:1935/masti/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.apkmirror.com/wp-content/uploads/2021/09/34/614d8b566c5fc.png" group-title="Music",Zee5 Romance
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Zee_news_bihar_jharkhand.png/revision/latest/scale-to-width-down/300?cb=20210510112212" group-title="Music",Zee Bihar Jharkhand
@@ -587,8 +589,10 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:57, tvg-id="New EPG" tvg-logo="https://play-lh.googleusercontent.com/_tokIaLkpaB25HvIbtf7IjDK7fTf2BR8wzX6UR37bVxQOXO3kcujNdx0GqvUINa06OE" tvg-name="STEELBIRD MUSIC"  group-title="Music",STEELBIRD MUSIC
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg" group-title="Music",Public Music
+#EXTINF:0 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Public_Music_Kannada_Channel_Logo.jpg/200px-Public_Music_Kannada_Channel_Logo.jpg"tvg-name="Public Music" group-title="Music",Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?token=soheliptv01826655778
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Public Music [1]
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" group-title="Music",Dil Se
@@ -639,8 +643,6 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 http://1music.hu/1music.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desi Plus" tvg-logo="http://d3jnkp3lrs2hd5.cloudfront.net/images/640x480/056bb4aa-a8a4-48d1-bad0-22b18089d22d.jpg" group-title="Music",Desi Plus
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",Public Music
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Life Punjabi" tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="Music",Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://www.logolynx.com/images/logolynx/40/40bdab1ce37a0a6351d6f67a35521815.png" group-title="Music",Zoom (1080p) [Offline]
