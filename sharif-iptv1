@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="Bangla",Sangsad tv
 https://rhridoy136.shortcm.li/sangsadtv.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
@@ -244,7 +244,7 @@ http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
 http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee5Originals.in" tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Movi",Zee5 Originals (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema UK
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-nJW4kDR4RKw/X56XelsO1CI/AAAAAAAAC90/wUrtQxLUx1QzDF3OE79TGhkpmuHunPlfwCLcBGAsYHQ/s600/09zeecinemazeecinema.jpg" group-title="Movi",Zee Cinema UK
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
@@ -270,7 +270,7 @@ https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee TAMIL" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Movi",Zee TAMIL
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Movi", Zee Smile
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Zee_smile.png/revision/latest/scale-to-width-down/2000?cb=20210514131333" group-title="Movi", Zee Smile
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zkSSBl9037I/YKAMUu2Km7I/AAAAAAAAAwg/qMP6SkOa33ExvkCXJ4AMg0M9vh21puFzgCLcBGAsYHQ/s16000/IMG_20210515_225227.jpg" group-title="Movi",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
