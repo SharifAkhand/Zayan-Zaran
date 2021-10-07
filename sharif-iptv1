@@ -221,6 +221,9 @@ http://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Movi", & Pictures HD [1]
 http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/125150
+#EXTINF:-1 tvg-id="ADNGold.in"tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="Movi",& Gold (404p)
+#EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
+http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest?cb=20200108100316" group-title="Movi", Zoo Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Movi", SONY MAX
@@ -301,6 +304,8 @@ http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title= "Movi", B4U Plus
 http://14.199.164.20:4001/play/a0wi/index.m3u8
+#EXTINF:-1 tvg-id="B4UHitz.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/11591447-46ac-487e-ac65-d8c20a5d18a0.png" group-title="Movi",B4U Hitz (720p) [Not 24/7]
+http://14.199.164.20:4001/play/a0wh/index.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/96777-B4UBhojpuri.jpg?format=webp&w=400&dpr=2.6" group-title="Movi",B4U Bhojpuri
 http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.uk" tvg-name="B4U Movies (2)" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Movies
@@ -367,9 +372,6 @@ https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?Live-TV�
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/07/071034c14a6fe4b2b19a4aeb9d17c383.png" group-title="Movi",FILMY
 http://123.249.76.157:10020/bysid/9
-#EXTINF:-1 tvg-id="ADNGold.in"tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="Movi",ADN Gold (404p)
-#EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
-http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/Videocon-d2h-Logo-1-2.jpg" group-title="MOvi", D2H CINEMA HD
 http://103.205.133.44:1935/ns/D2HCINEMAHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="MOvi", COLORS CINEPLEX
@@ -410,7 +412,22 @@ https://live.streamjo.com/eetlive/eettv.m3u8
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmeraa.in" tvg-country="IN" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Logo-filmora-square.png/revision/latest?cb=20170916163417" group-title="Movi",Filmeraa (720p)
 https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
-
+#EXTINF:-1 tvg-id="DreamzTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/yXHmKtT.png" group-title="Movi",Dreamz TV (768p)
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="DumTVKannada.in" tvg-country="IN" tvg-language="Kannada" tvg-logo="https://i.imgur.com/e43ysdo.png" group-title="Movi",Dum TV Kannada (576p)
+http://14.199.164.20:4001/play/a0sq/index.m3u8
+#EXTINF:-1 tvg-id="Dishum.in" tvg-country="IN" tvg-language="Bhojpuri" tvg-logo="https://i.imgur.com/k4j2QJX.png" group-title="Movi",Dishum (576p)
+http://14.199.164.20:4001/play/a0pe/index.m3u8 
+#EXTINF:-1 tvg-id="Bollywood.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_HD_%282018%29.svg/revision/latest?cb=20181116224348" group-title="Movi",Bollywood (480p)
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
+#EXTINF:-1 tvg-id="Anjan.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="Movi",Anjan (720p)
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVPlus.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/DjtPQeg.jpg" group-title="Movi",ACV Plus (404p)
+#EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
+http://cdn.asianetmobiletvplus.com/channels/acvplus_ef22daf97d61acb4bf52376c4105ad02/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVUtsav.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LLN585Y.png" group-title="Movi",ACV Utsav (404p)
+#EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
+http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f34baa7/playlist.m3u8
 
 
 
@@ -582,6 +599,8 @@ https://live.hungama.com/linear/dhamaal/playlist.m3u8?token=soheliptv01826655778
 http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tamil Vision TV" tvg-logo="" group-title="Music",Tamil Vision TV
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+#EXTINF:-1 tvg-id="ChannelWin.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Channel_Win.png/revision/latest?cb=20191228150301" group-title="Music",Channel Win (360p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 #EXTINF:79, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgFBzm9AnPx_CzNikmABcRVKGurE4hPRnb9hG4BsZhzqfrSa6Nq3OnoZcjWc6X64Hz07U&usqp=CAU" tvg-name="Zee Bihar Jharkhand "  group-title="Music",Zee Bihar Jharkhand 
 https://f8e7y4c6.ssl.hwcdn.net/biharjharkh/index.m3u8
 #EXTINF:99, tvg-id="New EPG" tvg-logo="https://e7.pngegg.com/pngimages/303/705/png-clipart-zee-world-zee-tv-television-show-television-channel-zee-entertainment-enterprises-actor-celebrities-television.png" tvg-name="Zee World "  group-title="Music",Zee World 
@@ -626,6 +645,8 @@ http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://www.logolynx.com/images/logolynx/40/40bdab1ce37a0a6351d6f67a35521815.png" group-title="Music",Zoom (1080p) [Offline]
 http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:-1 tvg-id="ANEWSdonsTVBhangraFlava.in" tvg-country="IN" tvg-language="Punjabi" tvg-logo="" group-title="Music",A NEWSDONs TV- SWAG SADDA VAKRAA (720p) [Not 24/7]
+http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новое" tvg-logo="" group-title="Music",Новое
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="" group-title="Music",МузСоюз
@@ -693,6 +714,8 @@ http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.strea
 
 #EXTINF:-1 tvg-id="ShemarooTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Cartoon",Shemaroo TV
 http://14.199.164.20:4001/play/a0nh/index.m3u8
+#EXTINF:-1 tvg-id="AkaramKidz.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/hAgaVPa.jpg" group-title="Cartoon",Akaram Kidz (460p) [Not 24/7]
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:131, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" tvg-name="Cartoon Network"  group-title="Cartoon",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
@@ -856,6 +879,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="FASHION", TLC SD Hindi2
 https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="FASHION",Gusto TV (720p)
+https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="FASHION", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dove Channel" tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="FASHION",Dove Channel
