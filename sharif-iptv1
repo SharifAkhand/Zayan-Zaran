@@ -229,6 +229,8 @@ https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunk
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg/revision/latest/scale-to-width-down/200?cb=20161126174300" group-title="Movi", SONY SAB HD
 http://voxtv.dynns.com:8000/movies/movies/502
+#EXTINF:-1 tvg-id="SonyWAH.in" tvg-country="IN" tvg-language="" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Movi",Sony WAH (404p) [Offline]
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Movi", Star Gold 2 4K
 http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Movi", Star Gold HD
@@ -237,6 +239,8 @@ http://137.59.155.77:8088/hls/11stargold.m3u8
 http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20190712150244" group-title="Movi",STAR UTSAV MOVIES
 http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Movi",Zee5 Originals (1080p)
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema UK
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" group-title="Movi",Zee Cinema
@@ -253,6 +257,8 @@ https://f8e7y4c6.ssl.hwcdn.net/zinguk/playlist.m3u8
 http://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Movi",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL" tvg-logo="https://www.adgully.com/img/400/202006/zee-anmol.jpeg" group-title="Hindi",ZEE ANMOL
+https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="Movi",Zee Mundo
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Kalinga" tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-odisha-45.png" group-title="Movi",Zee Kalinga
@@ -305,6 +311,8 @@ http://14.199.164.20:4001/play/a0wh/index.m3u8
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Wow Cinema" tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Movi",Wow Cinema
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 tvg-id="WowCinemaOne.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/s690F67.png" group-title="Movi",Wow Cinema One (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0n3/index.m3u8
 #EXTINF:-1 tvg-id="BoxCinema(src07).in(m3u4u)" tvg-name="Box Cinema" tvg-logo="http://boxcinemedia.com/assets/img/logo.png" group-title="Movi",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Movi",Maha Movie
@@ -319,6 +327,10 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Movi",MBC_BOLLYWOOD
 http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:-1 tvg-id="YuppThirai.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/6E8SbCf.png" group-title="Movi",Yupp Thirai (270p)
+http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
+#EXTINF:-1 tvg-id="StudioOneYuva.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/nACKF3x.jpg" group-title="Movi",Studio One Yuva (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0sr/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Santhora TV" tvg-logo="" group-title="Movi",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
 #EXTINF:64, tvg-id="New EPG" tvg-logo="https://pbs.twimg.com/profile_images/1228478265/tvilogo.jpg" tvg-name="TAMILVISION TV"  group-title="Movi",TAMILVISION TV
@@ -355,6 +367,9 @@ https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?Live-TV�
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/07/071034c14a6fe4b2b19a4aeb9d17c383.png" group-title="Movi",FILMY
 http://123.249.76.157:10020/bysid/9
+#EXTINF:-1 tvg-id="ADNGold.in"tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="Movi",ADN Gold (404p)
+#EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
+http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2015/07/Videocon-d2h-Logo-1-2.jpg" group-title="MOvi", D2H CINEMA HD
 http://103.205.133.44:1935/ns/D2HCINEMAHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="MOvi", COLORS CINEPLEX
@@ -373,6 +388,28 @@ http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Gemini_Movies&q=600&e=.m3u8
 http://mhdtvworld.com/delta/jio/mhdtvonline.php?c=Gemini_Movies_HD&q=600&e=.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/ETV_Cinema.jpg/revision/latest/scale-to-width-down/220?cb=20180603180559" group-title="MOvi",  ETV CINEMA
 https://msluk2s.akamaized.net/hls/live/2000134/etvcinemamsl/etvcinema_2000/chunklist.m3u8
+#EXTINF:-1 tvg-id="OneTv.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/ssMOeaj.png" group-title="Movi",One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Velicham.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title="Movi",Velicham (360p) [Not 24/7]
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ShekinahTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Movi",Shekinah TV (1080p)
+http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCHtYUfPnQci6GoUpPlWfrOg/live
+#EXTINF:-1 tvg-id="ShekinahTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="Movi",Shekinah TV (576p)
+http://14.199.164.20:4001/play/a0ok/index.m3u8
+#EXTINF:-1 tvg-id="Naaptol.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://pbs.twimg.com/profile_images/897059156556783616/BUbUxAuW.jpg" group-title="Movi",Naaptol (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0n1/index.m3u8
+#EXTINF:-1 tvg-id="MazhavilManoramaHD.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xCHQrH0.png" group-title="Movi",Mazhavil Manorama HD (1080p) [Not 24/7]
+http://14.199.164.20:4001/play/a0p9/index.m3u8
+#EXTINF:-1 tvg-id="MSignMedia.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://expressott.in/uploads/tv_image/m-sign-media.PNG" group-title="Movi",Msign Media (576p) [Not 24/7]
+http://cloud.logicwebs.in:1935/msign/msignmedia/playlist.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/xCHQrH0.png" group-title="Movi",Mazhavil Manorama (576p) [Not 24/7]
+http://14.199.164.20:4001/play/a0kd/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xplore Channel" tvg-logo="" group-title="English Movi",Xplore Channel
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="JonackTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Jonack.png/revision/latest?cb=20191219100639" group-title="Movi",Jonack TV (360p)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 tvg-id="Filmeraa.in" tvg-country="IN" tvg-language="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/Logo-filmora-square.png/revision/latest?cb=20170916163417" group-title="Movi",Filmeraa (720p)
+https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
 
 
 
@@ -404,8 +441,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English Movi",Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Xplore Channel" tvg-logo="" group-title="English Movi",Xplore Channel
-https://live.streamjo.com/eetlive/eettv.m3u8
 #EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="English Movi",24 Hour Free Movies 
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemax" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="English Movi",Cinemax
@@ -448,6 +483,8 @@ http://173.199.120.51/hls/chsp.m3u8
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Star_bharat_hd_clean.png/revision/latest/scale-to-width-down/250?cb=20210520182310"group-title="Hindi", STAR BHARAT HD
 http://103.205.133.44:1935/ns/STARBHARATHD/playlist.m3u8
+#EXTINF:-1 tvg-id="StarMaa.in" tvg-country="IN" tvg-language="Telugu" tvg-logo="https://i.imgur.com/oBXBjk6.png" group-title="Hindi",Star Maa [Geo-blocked]
+http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD1
 http://173.199.120.51/hls/chc.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD2
@@ -456,8 +493,6 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/10005200/6G8zJ9XsyB/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
 http://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL" tvg-logo="https://www.adgully.com/img/400/202006/zee-anmol.jpeg" group-title="Hindi",ZEE ANMOL
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="Hindi",Zee TV HD
@@ -490,6 +525,10 @@ https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3
 http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.ranklogos.com/wp-content/uploads/2012/04/sahara-one-logo-1.jpg" group-title="Hindi",SAHARA ONE
 http://123.249.76.157:10020/bysid/1
+#EXTINF:-1 tvg-id="KCLTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Hindi",KCL TV (720p)
+http://kcltv.livebox.co.in/kclhls/live.m3u8
+
+
 
 #EXTINF:0 tvg-logo="https://i.extraimage.info/pix/2020/06/18/ATNMusicf21ec.jpg" group-title="Music",ATN Music
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8?nimblesessionid=266010992&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDEwOjE4OjU4IEFNJmhhc2hfdmFsdWU9M2RpNnFKV2VlRkt3VVVQejFxYy9hdz09JnZhbGlkbWludXRlcz02MCZpZD01
@@ -559,6 +598,8 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Music",Deejay TV
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
+#EXTINF:-1 tvg-id="Vaanavil.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanvavil (576p)
+http://14.199.164.20:4001/play/a0nx/index.m3u8
 #EXTINF:56, tvg-id="New EPG" tvg-logo="http://cdn.teleon.tv/logo/mn-tv-music-in.png" tvg-name="MN TV MUSIC "  group-title="Music",MN TV MUSIC 
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="1hdru" tvg-name="1HD Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",1HD Music
@@ -583,12 +624,16 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Life Punjabi" tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="Music",Life Punjabi
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+#EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://www.logolynx.com/images/logolynx/40/40bdab1ce37a0a6351d6f67a35521815.png" group-title="Music",Zoom (1080p) [Offline]
+http://103.81.104.118/hls/stream8.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новое" tvg-logo="" group-title="Music",Новое
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" tvg-name="МузСоюз" tvg-logo="" group-title="Music",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Матур ТВ HD" tvg-logo="" group-title="Music",Матур ТВ HD
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 tvg-id="ShowBox.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/m9UFtTM.png" group-title="Music",Show Box
+http://14.199.164.20:4001/play/a0o8/index.m3u8
 #EXTINF:-1 tvg-id="m2-ua" tvg-name="М2" tvg-logo="http://m2.tv/assets/logo-231ef42a791ac4e9287a94c6dd492ebd740ad3bea40f789cd489683b758ff65d.png" group-title="Music",М2
 https://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="КТРК Музыка" tvg-logo="http://www.ktrk.kg/images/channels/small/music.png" group-title="Music",КТРК Музыка
@@ -616,6 +661,9 @@ https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180622/cv/kisspng-television-show-showbox-show-off-ya-tints-pendafle-5b2d55ba1e6f74.9643934615296977221247.jpg" group-title="Music",Show Box  tv 
 http://14.199.164.20:4001/play/a0o8/index.m3u8
 
+
+
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngFx0fbIvgK8rehQj_oVCIyiVay0diGJwLqU_oXdw=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Madni tv Bangla
 https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 #EXTINF:43, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/f/f9/%E0%A6%8F%E0%A6%9F%E0%A6%BF%E0%A6%8F%E0%A6%A8_%E0%A6%87%E0%A6%B8%E0%A6%B2%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" tvg-name="ATN  ISLAMIC"  group-title="Islamic",ATN  ISLAMIC
@@ -642,6 +690,9 @@ https://rhridoy136.shortcm.li/makkahlive.m3u8
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 
 
+
+#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Cartoon",Shemaroo TV
+http://14.199.164.20:4001/play/a0nh/index.m3u8
 #EXTINF:131, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" tvg-name="Cartoon Network"  group-title="Cartoon",Cartoon Network
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
@@ -672,6 +723,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WZra Kids TV" tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="Cartoon",WZra Kids TV
 http://wpso.com:1936/hls/kidshd.m3u8
+
 
 
 
