@@ -372,6 +372,8 @@ http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Surya_Tv_2014.png" group-title="Movi",Surya TV 
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
+#EXTINF:-1 tvg-id="UtsavGold.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="Movi",Utsav Gold (720p)
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.androidfreeware.net/screens/BcFBCoMwEADAF8Ug6qG9iQTFhhJP4klE1w0Ys7ZZhfh6ZyzzEd5SHm6KwtkEidDBGeA_k2fwnMy0y65NlyGluhxDrve8yu71J1Q_aV34nu8XWhyUOMMFm4FvY-qSxEU-A9WauH2iwgc/com-tv-uthradam-3.jpg" group-title="Movi",Uthradam Movies
 http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Public_Movies.jpg/revision/latest?cb=20190711115405" group-title="Movi",Public Movies 
@@ -434,7 +436,8 @@ http://cdn.asianetmobiletvplus.com/channels/acvplus_ef22daf97d61acb4bf52376c4105
 #EXTINF:-1 tvg-id="ACVUtsav.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LLN585Y.png" group-title="Movi",ACV Utsav (404p)
 #EXTVLCOPT:http-user-agent=AsianetMobileTVPlus
 http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f34baa7/playlist.m3u8
-
+#EXTINF:-1 tvg-id="NeeCinema.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/vYme2fs.png" group-title="Movi",Nee Cinema (1080p)
+https://live.neestream.com/neestream_01/nee_cinema/playlist.m3u8
 
 
 
@@ -599,7 +602,7 @@ http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Public Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music", Public Music [1]
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits
+#EXTINF:0 tvg-logo="https://i.postimg.cc/NMw1xRRp/Kadak-Hits.png" group-title="Music",Kadak Hits (1080p)
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8?token=soheliptv01826655778
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSFDmgJeM34DwUJKQC4cLTxR3YJyml-lx3xOA2HOmpxpkaDQ3pN&usqp=CAU" group-title="Music",Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?token=soheliptv01826655778
@@ -697,7 +700,8 @@ http://14.199.164.20:4001/play/a0o8/index.m3u8
 http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Jus_punjabi_logo.svg/1280px-Jus_punjabi_logo.svg.png" group-title="Music",JUS PUNJABI HD
 http://jiocgwhub.jio.ril.com/JUSPunjabi/JUSPunjabi_600.m3u8
-
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/cA7PpJG.jpg" group-title="Music",Sana Plus (720p)
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngFx0fbIvgK8rehQj_oVCIyiVay0diGJwLqU_oXdw=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Madni tv Bangla
