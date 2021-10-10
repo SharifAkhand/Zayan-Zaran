@@ -131,7 +131,8 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/4kxxSCq.png" group-title="Bangla",Colosal TV (720p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/colosal.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Can Bangla TV" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Can Bangla TV
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/chunks.m3u8
 
 
 
@@ -303,8 +304,12 @@ http://51.52.156.22:8888/http/009
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movi", BBO
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="BBO Classic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/TBO_CLASSIC_TV.jpg" group-title="Movi", BBO Classic
+#EXTINF:-1 tvg-id="ext" tvg-name="BBO Classic" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/BBO-Classic-white.png" group-title="Movi", BBO Classic
 https://yuppcatchup.akamaized.net/preview/bboclassic/2500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/kbo-black.png" group-title="Movi", KBO
+https://catchup.yuppcdn.net/amazonv2/20/preview/kbo/master/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBO CLASSIC" tvg-logo="https://i.imgur.com/dqi1sh8.png" group-title="Movi", KBO CLASSIC
+https://catchup.yuppcdn.net/amazonv2/20/preview/kboclassic/master/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg/revision/latest?cb=20200719093053" group-title="Movi",Dhinchaak TV
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.trackdish.com/wp-content/uploads/2021/04/dhinchaak-2-channel-logo-min.jpg" group-title="Movi",Dhinchaak 2 TV
@@ -553,6 +558,8 @@ https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Ayush_TV.jpeg/revision/latest?cb=20191227132751" group-title="Hindi",Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/Utsav_Plus_logo.svg/revision/latest?cb=20210125235200" group-title="Hindi",Utsav_Plus_HD
+http://stream.dhakaflix.com:8081/Utsav_Plus_HD/tracks-v1a1/playlist.m3u8
 #EXTINF:69, tvg-id="New EPG" tvg-logo="https://i.imgur.com/REO6aFZ.png" tvg-name="AND TV"  group-title="Hindi",AND TV
 http://stream.dhakaflix.com:8081/live/andtv/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shemaroo Punjabi TV" tvg-logo="" group-title="Hindi",Shemaroo Punjabi TV
@@ -577,6 +584,8 @@ http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f3
 https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/live-orgin/atnmusic.stream/chunks.m3u8?nimblesessionid=266010992&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNC8yMDIxIDEwOjE4OjU4IEFNJmhhc2hfdmFsdWU9M2RpNnFKV2VlRkt3VVVQejFxYy9hdz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:0 tvg-logo="https://i.imgur.com/WaZyAOE.png" group-title="Music",Gaan Bangla HD
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="RTV Music" tvg-name="RTV Music" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Music",RTV Music
+https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU" group-title="Music",Dhoom Music
@@ -649,6 +658,8 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv
 http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
 #EXTINF:-1 tvg-id="Vaanavil.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanvavil (576p)
 http://14.199.164.20:4001/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sun Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/sun-music-HD-white.png" group-title="Music",Sun Music
+https://catchup.yuppcdn.net/amazonv2/20/preview/sunmusichd/master/master.m3u8
 #EXTINF:56, tvg-id="New EPG" tvg-logo="http://cdn.teleon.tv/logo/mn-tv-music-in.png" tvg-name="MN TV MUSIC "  group-title="Music",MN TV MUSIC 
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="1hdru" tvg-name="1HD Music" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Music",1HD Music
