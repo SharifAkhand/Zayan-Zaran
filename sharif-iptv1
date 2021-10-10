@@ -286,9 +286,9 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png" group-title="Movi",Zee Talkies
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1373.1569972372.png" group-title="Movi",Sony Movies Action
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="Movi",Sony Movies Action
 http://51.52.156.22:8888/http/009
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bflix Movies" tvg-logo="Logo N/A" group-title="Movi",Bflix Movies
+#EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png" group-title="Movi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movi", BBO
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
@@ -778,10 +778,14 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports [3]
 http://otv.ftpbd.net/streams/121/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6a7pWRE.png" group-title="Sports", Sony Six
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Sony Six HD" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sony Six HD
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="Sports",Sony Ten 1
 http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1rahTG.png" group-title="Sports", Sony Ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:137, tvg-id="New EPG" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2016/07/13/DD%20Sports.jpg?itok=MJDdii0j" tvg-name="DD SPORTS"  group-title="Sports",DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:138, tvg-id="New EPG" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2021/02/oman-sport.png" tvg-name="OMAN SPORTS"  group-title="Sports",OMAN SPORTS
