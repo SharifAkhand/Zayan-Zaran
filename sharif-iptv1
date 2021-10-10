@@ -449,7 +449,8 @@ http://cdn.asianetmobiletvplus.com/channels/acvplus_ef22daf97d61acb4bf52376c4105
 http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f34baa7/playlist.m3u8
 #EXTINF:-1 tvg-id="NeeCinema.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/vYme2fs.png" group-title="Movi",Nee Cinema (1080p)
 https://live.neestream.com/neestream_01/nee_cinema/playlist.m3u8
-
+#EXTINF:-1 tvg-id="ChannelWin.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Channel_Win.png/revision/latest?cb=20191228150301" group-title="MOvi",Channel Win (360p) [Not 24/7]
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
 
 
 #EXTINF:108, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1200px-7flix_logo_2020.svg.png" tvg-name="7flix "  group-title="English Movi",7flix 
@@ -568,7 +569,8 @@ https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3
 http://123.249.76.157:10020/bysid/1
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Hindi",KCL TV (720p)
 http://kcltv.livebox.co.in/kclhls/live.m3u8
-
+#EXTINF:-1 tvg-id="ACVUtsav.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/LLN585Y.png" group-title="Hindi",ACV Utsav (404p)
+http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f34baa7/playlist.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i.extraimage.info/pix/2020/06/18/ATNMusicf21ec.jpg" group-title="Music",ATN Music
@@ -653,6 +655,8 @@ http://mntv.livebox.co.in/musichls/live.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jhanjar Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-id="E24.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/VBu7r0A.png" group-title="Music",E24 (576p)
+http://14.199.164.20:4001/play/a0pc/index.m3u8
 #EXTINF:118, tvg-id="New EPG" tvg-logo="https://zuflix.io/uploads/tv_image/jhanjar-music.jpg" tvg-name="Music Jhanjar HD"  group-title="Music",Music Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/Raj_Musix_Telugu.jpeg/revision/latest/scale-to-width-down/250?cb=20191226174827" group-title="Music", RAJ MUSIC TELUGU
@@ -675,6 +679,8 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://www.logolynx.com/images/logolynx/40/40bdab1ce37a0a6351d6f67a35521815.png" group-title="Music",Zoom (1080p) [Offline]
 http://103.81.104.118/hls/stream8.m3u8
+#EXTINF:-1 tvg-id="Dhamaal.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Dhamaal_Gujarat_Sabgroup.png/revision/latest?cb=20210227202142" group-title="Music",Dhamaal (480p)
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
 #EXTINF:-1 tvg-id="ANEWSdonsTVBhangraFlava.in" tvg-country="IN" tvg-language="Punjabi" tvg-logo="" group-title="Music",A NEWSDONs TV- SWAG SADDA VAKRAA (720p) [Not 24/7]
 http://newsjatt.camdvr.org:1935/newsjatt/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Новое" tvg-logo="" group-title="Music",Новое
@@ -717,6 +723,9 @@ http://live.wmncdn.net/shanpunjabitv/36a030a5650ff0fb071ca626e899dd61.sdp/index.
 http://jiocgwhub.jio.ril.com/JUSPunjabi/JUSPunjabi_600.m3u8
 #EXTINF:-1 tvg-id="SanaPlus.in" tvg-country="IN" tvg-language="Tamil" tvg-logo="https://i.imgur.com/cA7PpJG.jpg" group-title="Music",Sana Plus (720p)
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="ACVJukebox.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/tYPn1lW.png" group-title="Music",ACV JukeBox (404p)
+http://cdn.asianetmobiletvplus.com/channels/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngFx0fbIvgK8rehQj_oVCIyiVay0diGJwLqU_oXdw=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Madni tv Bangla
@@ -922,8 +931,14 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="FASHION", TLC SD Hindi2
 https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
+#EXTINF:-1 tvg-id="TPA1.ao" tvg-country="AO" tvg-language="Portuguese" tvg-logo="https://www.zap.co.ao/media/cache/movie_thumb/uploads/ao/channels/5762b5256aff3.png" group-title="FASHION",TPA 1 (480p)
+https://iptv-all.lanesh4d0w.codes/angola/tpa1
+#EXTINF:-1 tvg-id="TVZimbo.ao" tvg-country="AO" tvg-language="Portuguese" tvg-logo="https://www.tvzimbo.ao/temas/tvzimbo/assets/img/logo-programacao.png" group-title="FASHION",TV Zimbo (720p)
+https://iptv-all.lanesh4d0w.codes/angola/tv-zimbo
 #EXTINF:-1 tvg-id="GustoTV.us" tvg-country="IN" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="FASHION",Gusto TV (720p)
 https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV.ad" tvg-country="AD" tvg-language="Catalan" tvg-logo="https://i.imgur.com/kJCjeQ4.png" group-title="FASHION",ATV (720p)
+https://iptv-all.lanesh4d0w.codes/andorra/atv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="FASHION", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dove Channel" tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="FASHION",Dove Channel
