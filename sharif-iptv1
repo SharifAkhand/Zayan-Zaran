@@ -605,7 +605,7 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpqQmdRajh0w61GAiPsSdKUZDh8HTlLhwl8Q&usqp=CAU" group-title="English Movi",Blue Ant Entertainment
 http://45.126.83.51/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212822785619152901/nStbTiKQ_400x400.jpg" group-title="English Movi" ,BYUtv
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212822785619152901/nStbTiKQ_400x400.jpg" group-title="English Movi",BYU tv
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
 
 
