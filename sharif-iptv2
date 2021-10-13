@@ -103,7 +103,6 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-TViCNxP7IPA/X8VRu6_QpnI/AAAAAAAABEg/KNUy4e-F-BUIj6rl-kWzahXB7JXzrqsKgCLcBGAsYHQ/s16000/Falguni-TV-logo.png" group-title="Bangla",Falguni TV
 https://atv-hls.telelivebd.com:443/atv/atv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla", Gazi TV HD
-#https://rebrand.ly/JB/GaziTvHD
 #http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
@@ -112,6 +111,7 @@ https://atv-hls.telelivebd.com:443/atv/atv.m3u8
 #https://rebrand.ly/JB/GaziTvHD
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+https://rebrand.ly/JB/GaziTvHD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/msvcuXx.png" group-title="Bangla",Hernet IPTV
 https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangla",ITV
