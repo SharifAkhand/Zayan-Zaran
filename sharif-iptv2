@@ -201,7 +201,8 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 #https://rhridoy136.shortcm.li/zeebanglahd.m3u8
 #http://103.205.133.40/hls/zeebanglahd.m3u8
-http://173.199.120.51/hls/zeebanglahd.m3u8
+#http://173.199.120.51/hls/zeebanglahd.m3u8
+https://snehz5tv.herokuapp.com?c=0-9-zeebangla
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalshan HD
 #http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #http://echootv.tv:2086/test_WOD4ZA/F2uwQOa9/257472
@@ -319,7 +320,8 @@ http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwb
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest?cb=20200108100316" group-title="Movi", Zoo Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Movi", SONY MAX
-https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
+#https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sony_Max_SD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movi", Sony Max HD 
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
@@ -896,7 +898,8 @@ http://pkr.cinepex.tv:8278/pogohindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Cartoon", Nick
 #http://103.159.4.38:5868/KIDS-1/tracks-v1a1/mono.m3u8
 #https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
-http://jupiter.bdcabletv.com/ENC-15/video.m3u8
+#http://jupiter.bdcabletv.com/ENC-15/video.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/chT8xP5.png" group-title="Cartoon", Nick Junior Hindi
 http://103.153.39.34:8000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/957/25/png-clipart-nickelodeon-high-definition-television-nick-jr-television-channel-others-television-text.png" group-title="Cartoon", nickelodeon FHD
@@ -1099,6 +1102,7 @@ https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Discovery", Discovery Science English
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Discovery", Discovery 
+#http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Discovery", Discovery Turbo
 https://idvd.multitvsolution.com/idvo/turboeng_540p/index.m3u8
