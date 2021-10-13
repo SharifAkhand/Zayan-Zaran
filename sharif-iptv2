@@ -110,7 +110,7 @@ https://atv-hls.telelivebd.com:443/atv/atv.m3u8
 #https://www.youtube.com/watch?v=q6m9zBRFLEA
 #https://rebrand.ly/JB/GaziTvHD
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 https://rebrand.ly/JB/GaziTvHD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/msvcuXx.png" group-title="Bangla",Hernet IPTV
 https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8?Live-TV™
