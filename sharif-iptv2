@@ -969,14 +969,14 @@ http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/157931
 
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
-#http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-#http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#https://234b.short.gy/sydul.tsports.m3u8
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+https://234b.short.gy/sydul.tsports.m3u8
 http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-21 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV 
-#http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
+http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#https://rebrand.ly/JB/GaziTvHD
+https://rebrand.ly/JB/GaziTvHD
 https://piratesiptv.shortcm.li/gazi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1
