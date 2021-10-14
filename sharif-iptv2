@@ -90,6 +90,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://stream.dhakaflix.com:8081/hls/deeptotv.m3u8/l_55_22704426_660.ts?nimblesessionid=2053896
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
 http://89.187.185.89:3232/ban-duronto/index.m3u8
+#EXTINF:-1 tvg-logo="https://digibangla.tv/assets/img/logo-tv.png" group-title="Bangla", Digi Bangla 24 HD
+http://10.16.100.213:8080/hls/digibangla.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/MH-gJcYm077DRXA1gkfbxgKPN8pXTKM9MrJyUqOeZSXCP9Kzzc6yf9lcToajFEiCgub9p1Zu9yTk1nV3VNoKAnsHVY6dF5JV0CdPtA_djauWvLOi2ePvP-bAq6YURS8" group-title="Bangla", Doyel TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/6KsBwmAHtmufM3Yd7voJ7vq-5H_mgdWLcP4BGSnznamzn55wreYqbvCPD7dySpWqr7d-au-L2kuZEgTHm225Ovr58Eh7X892i5jFhUl-xpIPPsVaY96yHy9s" group-title="Bangla", Deshi TV
