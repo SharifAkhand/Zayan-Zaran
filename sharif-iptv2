@@ -561,11 +561,14 @@ http://z5amshls.akamaized.net/andflix/tracks-v1a1/index.m3u8
 http://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="English Movi",Zee Cafe HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="English Movi",Sony Movies (F)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/1200px-Sony_Movies_Logo.svg.png" group-title="English Movi",Sony Movies
 #http://echootv.tv:2086/test_WOD4ZA/F2uwQOa9/260992
 http://echootv.tv:2086/test_WOD4ZA/F2uwQOa9/260830
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movi", SONY AXN FHD
 http://51.91.73.99:25461/usachannel/ngZnG8PD5i/17056
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg" group-title="English Movi",Sony Pix HD
+#http://babutv.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="English Movi", AXN
 #http://221.120.204.4/AXN-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
@@ -579,7 +582,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HBO Hits" tvg-logo="https://i.imgur.com/nOiPsyr.png" group-title="English Movi",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movi",HBO
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+#http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
+#http://tvflixtn.ddns.net/hls/hbo.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK2xD8sMCO7vaN1G4G6x_48kaYAgOqzQVWYA&usqp=CAU" group-title="English Movi" Lotus
+#http://103.81.104.118/hls/lotus.m3u8
+http://203.154.243.89:1205
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="English Movi",Movie kingdom
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:109, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjuNJ5KKHhEEuOm7IhWXnKX6bN0-buiO5AcTNai4eAwTmrvz5uNJMPUaZN9Wvn0veBafI&usqp=CAU" tvg-name="24 Hour Free Movies "  group-title="English Movi",24 Hour Free Movies 
@@ -596,7 +604,7 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://t2.tvmak.com/tv/STARPLUS.m3u8
 #EXTINF:-1 tvg-logo="https://moneyfocus.com/wp-content/uploads/2019/01/STIRR-Free-Live-And-On-Demand-Streaming-Service-2.png" group-title="English Movi",STIRR MovieMix tv
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="English Movi", Star Movies
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="English Movi", Star Movies HD
 #https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English Movi", Star Movies Select HD
@@ -623,7 +631,8 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 http://45.126.83.51/dr9445/h/h16/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1212822785619152901/nStbTiKQ_400x400.jpg" group-title="English Movi",BYU tv
 http://a.jsrdn.com/broadcast/d5b46/+0000/high/c.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/149-1495237_fox-movies-logo-png-transparent-png.png" group-title="English Movi", Fox Movie
+http://93.157.62.180:80/FoxMovies/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
