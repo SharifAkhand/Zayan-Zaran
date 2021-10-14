@@ -51,6 +51,8 @@ https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
 #EXTINF:0 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="Bangla",Bangla TV
 #http://103.205.133.40/hls/banglatv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/binodonbanglatv.jpg" group-title="Bangla",Binodon Bangla IPTV [BD]
+http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bindonbangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tr6mXmp/Bangla-Channel.jpg" group-title="Bangla",Bangla Channel
 http://str24.l9574.com/515.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/msvcuXx.png" group-title="Bangla",Bangla 21 TV (2)
@@ -141,6 +143,8 @@ https://rhridoy136.shortcm.li/mytv.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangla",MOHONA TV
 #http://103.205.133.40/hls/mohonatv.m3u8
 https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Bangla",Magic Bangla IPTV [BD]
+http://enaniptv.com/magicbanglatv/1080/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangla",Nagorik TV
 #http://tvflixtn.ddns.net/hls/hls/nagorik.m3u8
 #http://10.16.100.203:8082/bangla/nagoriK_riptv_21.m3u8
@@ -259,6 +263,8 @@ https://rhridoy136.shortcm.li/jamunatv.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #http://103.205.133.40/hls/somoy.m3u8
 https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5an36g2643m02dj/natun-somoy-bd.png" group-title="News",Natun Somoy
+http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="News",ATN News
 #http://103.159.4.38:8080/BD-BANGLA-14/tracks-v1a1/mono.m3u8
 #http://103.205.133.40/hls/atnnews.m3u8
