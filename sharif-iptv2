@@ -185,6 +185,8 @@ https://rhridoy136.shortcm.li/sangsadtv.m3u8
 http://str24.l9574.com/519.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://sristytv.net/wp-content/uploads/2021/08/Sristy-tv-2.png" group-title="Bangla",Sristy tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXAvBfX.png" group-title="Bangla",Shopno IPTV
+http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Bangla",SA TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMBVFeqkNHx8qW33u3-YwAA6_QYTd7hHj384eGiYW6zfok5Gq86BuSXck_XVnaw9hDKw&usqp=CAU" group-title="Bangla",Time Television (720p)
@@ -237,7 +239,8 @@ https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
 http://103.205.133.21/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/de/%E0%A6%86%E0%A6%B0_%E0%A6%AA%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="Bangla",R Plus
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="Bangla", Khusboo Bangla
+http://103.141.66.36/bpk-tv/10139/default/manifest.mpd?=.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="News", Channel 24
@@ -317,6 +320,10 @@ http://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v4a1/mono.m3u8
 #http://jupiter.bdcabletv.com/star_jalsha-sp/video.m3u8
 #http://babutv.aliflailabd.com:8989/jalsha-movies/index.m3u8
 https://rebrand.ly/kolkata/Jalsha-Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Movi", Tollywood [IN]
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovmlAb1.jpg" group-title="Movi", Tele Film [IN]  
+http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Movi", & Pictures
 #http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/125150
 #http://pockettv.xyz/api/zee.m3u8?c=andpicshd
