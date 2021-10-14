@@ -200,13 +200,16 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
 #https://rhridoy136.shortcm.li/zeebanglahd.m3u8
 #http://103.205.133.40/hls/zeebanglahd.m3u8
-#https://snehz5tv.herokuapp.com?c=0-9-zeebangla
 #http://173.199.120.51/hls/zeebanglahd.m3u8
 http://103.205.133.40/hls/zeebanglahd.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalshan HD
+#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b7134d2d38b51045cf87eb7/1565809256512/6a5962de199ceea482a5ed552f355634.png" group-title="Bangla", Zee Bangla HD
+https://snehz5tv.herokuapp.com?c=0-9-zeebangla
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsha
 #http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #http://echootv.tv:2086/test_WOD4ZA/F2uwQOa9/257472
 #https://rhridoy136.shortcm.li/starjalsha.m3u8
