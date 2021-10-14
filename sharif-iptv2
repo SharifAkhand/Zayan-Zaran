@@ -201,8 +201,9 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla HD
 #https://rhridoy136.shortcm.li/zeebanglahd.m3u8
 #http://103.205.133.40/hls/zeebanglahd.m3u8
-http://173.199.120.51/hls/zeebanglahd.m3u8
 #https://snehz5tv.herokuapp.com?c=0-9-zeebangla
+#http://173.199.120.51/hls/zeebanglahd.m3u8
+http://103.205.133.40/hls/zeebanglahd.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalshan HD
 #http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #http://echootv.tv:2086/test_WOD4ZA/F2uwQOa9/257472
@@ -213,7 +214,8 @@ http://103.205.133.40/hls/chsj.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Bangla", Sony Aath
 #http://103.205.133.21/hls/sony8.m3u8
 #http://103.205.133.19/hls/sony8.m3u8
-http://echootv.tv:2086/test_WOD4ZA/F2uwQOa9/257473
+#http://echootv.tv:2086/test_WOD4ZA/F2uwQOa9/257473
+http://103.205.133.40/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
 #http://jupiter.bdcabletv.com/ColorsBangla_ENC/video.m3u8
 #http://103.159.4.38:8080/IN-BANGLA-5/tracks-v1a1/mono.m3u8
@@ -327,20 +329,27 @@ http://jo123.biz/jweb/m3u8.php?c=Sony_Max_SD&q=800&e=junk.m3u8
 #http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #http://ottss.online:8000/44122162500170/30316873476781/178707
 #http://tv2.ebox.live:8080/live/sony-max.m3u8
-https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+#http://jo123.biz/jweb/m3u8.php?c=Sony_Max_SD&q=800&e=junk.m3u8
+#https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+http://jo123.biz/jweb/m3u8.php?c=Sony_Max_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg/revision/latest/scale-to-width-down/200?cb=20161126174300" group-title="Movi", SONY SAB HD
 http://voxtv.dynns.com:8000/movies/movies/502
 #EXTINF:-1 tvg-id="SonyWAH.in" tvg-country="IN" tvg-language="" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Movi",Sony WAH (404p) [Offline]
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Movi", Star Gold 2 4K
-#http://103.153.39.34:8000/play/a06p/index.m3u8
+#https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+http://14.199.164.20:4001/play/a0os/index.m3u8
+#EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movi",Star Gold HD
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
+http://93.152.174.144:4000/play/stargold/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Movi", Star Gold 2
 #https://rhridoy136.shortcm.li/stargold2.m3u8
 #http://137.59.155.77:8088/hls/11stargold.m3u8
 #https://rhridoy136.shortcm.li/stargold.m3u8
-https://rhridoy136.shortcm.li/stargoldhd.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707" group-title="Movi", STAR GOLD SELECT
+#https://rhridoy136.shortcm.li/stargoldhd.m3u8
+http://103.153.39.34:8000/play/a06p/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/SGS.jpg/revision/latest?cb=20171105034707" group-title="Movi", STAR GOLD SELECT HD
 #http://103.205.133.44:1935/ns/STARGOLDSELECTHD/playlist.m3u8
-http://43.230.123.21:8080/live/star-gold-select.m3u8
+#http://43.230.123.21:8080/live/star-gold-select.m3u8
+http://ottss.online:8000/44122162500170/30316873476781/178702
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20190712150244" group-title="Movi",STAR UTSAV MOVIES
 http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Movi", Zee5 Originals (1080p)
@@ -409,8 +418,9 @@ http://103.153.39.34:8000/play/a06o/index.m3u8
 #https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1800k/chunklist.m3u8
 #http://103.205.133.44:1935/ns/CINEPLEXHD/playlist.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Rishtey_Cineplex.png/revision/latest/scale-to-width-down/250?cb=20190308001642" group-title="Movi", RISHTEY CINEPLEX
-https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
+#EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Movi",Risty Cinaplex
+#https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg/revision/latest?cb=20200320100818" group-title="Movi", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="http://arabianmarketer.ae/wp-content/uploads/2017/07/B4U-plus-logo.jpg" group-title="Movi", B4U Plus
