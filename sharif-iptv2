@@ -334,7 +334,7 @@ http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 #http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/125150
 #http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 http://f8e7y4c6.ssl.hwcdn.net/andpicssd/tracks-v1a1/mono.m3u8
-#EXTINF:-98 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="Moi", & Picture HD
+#EXTINF:-98 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="Movi", & Picture HD
 #http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
 http://103.205.133.40/hls/andpicture.m3u8
 #EXTINF:-1 tvg-id="ADNGold.in"tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="Movi", And Gold
