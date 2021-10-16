@@ -15,7 +15,7 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 http://103.205.133.40/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://www.bangladeshcircle.com/wp-content/uploads/2016/06/agami-TV-logo.jpg" group-title="Bangla",Agami TV
 http://str24.l9574.com/510.stream/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Bangla",Alpona TV
+#EXTINF:-1 tvg-logo="https://www.alpona.tv/wp-content/uploads/2019/10/alpona_footer_logo.png" group-title="Bangla",Alpona TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTesgCpbu7I4A39exJriZrg7ASoGB82b7zy1RdYO7HypgW8hu7Ys623514e5ZruUBvwQn8&usqp=CAU" group-title="Bangla",Alif TV
 http://128.199.212.160/alif/1080/index.m3u8?Live-TV™
@@ -32,7 +32,7 @@ http://103.106.2.149:13456/btv.m3u8
 #https://234b.short.gy/sydul.btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television CTG
 http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangla",BTV World
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/8163/7570254906_e5ac26aae2_m.jpg" group-title="Bangla",BTV World
 https://234b.short.gy/sydul.btvworld.m3u8
 #https://rhridoy136.shortcm.li/btvworld.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
@@ -138,11 +138,11 @@ http://str24.l9574.com/517.stream/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-millennium-tv-usa-7547.jpg" group-title="Bangla",Millennium TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangla",MY TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="Bangla",MY TV
 http://103.205.133.40/hls/mytv.m3u8
 #https://rhridoy136.shortcm.li/mytv.m3u8
 #https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangla",MOHONA TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Mohona_Logo.JPG" group-title="Bangla",MOHONA TV
 https://rhridoy136.shortcm.li/mohonatv.m3u8
 #http://103.205.133.40/hls/mohonatv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Bangla",Magic Bangla IPTV [BD]
