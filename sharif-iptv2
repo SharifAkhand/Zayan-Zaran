@@ -457,7 +457,7 @@ http://14.199.164.20:4001/play/a0wi/index.m3u8
 http://14.199.164.20:4001/play/a0wh/index.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/96777-B4UBhojpuri.jpg?format=webp&w=400&dpr=2.6" group-title="Movi",B4U Bhojpuri
 http://14.199.164.20:4001/play/a0nq/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",B4U Movies
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/250?cb=20150308151545" group-title="Movi",B4U Movies
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png" group-title="Movi",B4U Music
 http://14.199.164.20:4001/play/a0wh/index.m3u8
@@ -502,9 +502,9 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2016/05/05/fakte-marathi_0.jpg" group-title="Movi",Fakt Marathi
 http://14.199.164.20:4001/play/a0q8/index.m3u8
-#EXTINF:-1 tvg-logo=https://w7.pngwing.com/pngs/276/443/png-transparent-television-channel-malayalam-kairali-tv-television-show-cpim-television-text-logo.png" group-title="Movi",Kairali TV 
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/276/443/png-transparent-television-channel-malayalam-kairali-tv-television-show-cpim-television-text-logo.png" group-title="Movi",Kairali TV 
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 tvg-"logo=https://www.pngkit.com/png/full/4-40364_dream-tv-dream-tv-logo-png.png" group-title="Movi", Dream TV
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/full/4-40364_dream-tv-dream-tv-logo-png.png" group-title="Movi", Dream TV
 https://cloudflare-cdn301.ottpro.in/dream_media/reedeem/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Surya_Tv_2014.png" group-title="Movi",Surya TV 
 https://catchup.yuppcdn.net/amazonv2/20/preview/suryasd/master/master.m3u8
