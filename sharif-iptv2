@@ -469,7 +469,8 @@ http://14.199.164.20:4001/play/a0n3/index.m3u8
 #EXTINF:-1 tvg-logo="http://boxcinemedia.com/assets/img/logo.png" group-title="Movi",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Movi",Maha Movie
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+http://14.199.164.20:4001/play/a0q7/index.m3u8
+#https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Movi",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg/revision/latest/scale-to-width-down/300?cb=20191220115523" group-title="Movi",Manoranjan Grand TV
