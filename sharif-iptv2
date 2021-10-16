@@ -253,7 +253,7 @@ http://103.141.66.36/bpk-tv/10139/default/manifest.mpd?=.m3u8
 https://rhridoy136.shortcm.li/channel24.m3u8
 #http://103.205.133.40/hls/channel24.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" group-title="News", News 24
+#EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" group-title="News",News 24
 https://rhridoy136.shortcm.li/news24.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-12/tracks-v1a1/mono.m3u8
 #http://103.205.133.40/hls/news24.m3u8
