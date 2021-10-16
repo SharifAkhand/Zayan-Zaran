@@ -494,7 +494,7 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/punjabi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.seekpng.com/png/detail/357-3574866_tamil-tv-channel-logos.png" tvg-name="TAMIL TV"  group-title="Movi",TAMIL TV
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",MH1 Music
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/MH_One.jpg/revision/latest/smart/width/250/height/250?cb=20180625063419" group-title="Movi",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/418473106819121153/MsweKAdm_400x400.png" tvg-name="Bahar TV "  group-title="Movi",Bahar TV 
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
@@ -518,7 +518,7 @@ http://14.199.164.20:4001/play/a0ll/index.m3u8
 https://minerva-bizzarromovies-1-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",Lollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?Live-TV™
-#EXTINF:-1 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Movi",MK Six
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Mk_six.png/revision/latest?cb=20210331185019" group-title="Movi",MK Six
 http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/07/071034c14a6fe4b2b19a4aeb9d17c383.png" group-title="Movi",FILMY
 http://123.249.76.157:10020/bysid/9
@@ -705,7 +705,7 @@ https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklis
 http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/tHpoAsysC5FFKNv7X7ioQN8ltWk9RGlzwhlqgxz9OpPIqtZYiewdSwLOeflaKwGy4j5Q1NRWKrEyuNPIn2gfXuzfrGz6yNRFz2Z2JXuI3KavxKF6fnzwnc0i" group-title="Hindi",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/fc/fce2be8417e0b5a55b70126fd22e6a52.jpeg" group-title="Hindi",Flowers TV
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/flowers-tv-channel-logo-300x300.jpg" group-title="Hindi", Flowers TV
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.shubhsandeshtv.com/images/logo.png" group-title="Hindi",Shubhsandesh
 https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
