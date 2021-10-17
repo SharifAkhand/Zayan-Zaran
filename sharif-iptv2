@@ -350,7 +350,8 @@ http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Movi", and Pictures
-http://10.16.100.204/hls/&_pic.m3u8
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6205.ts
+#http://10.16.100.204/hls/&_pic.m3u8
 #https://y5w8j4a9.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/125150
 #http://pockettv.xyz/api/zee.m3u8?c=andpicshd
@@ -399,6 +400,8 @@ http://ottss.online:8000/44122162500170/30316873476781/178702
 #http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20190712150244" group-title="Movi",STAR UTSAV MOVIES
 http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Star_Maa_2020.jpg/revision/latest?cb=20200906144926" group-title="Movi", Star Ma Gold 
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7701.ts
 #EXTINF:-1 tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/bltb486b94ffaba907b/6005ab504485e50f8f20882a/download" group-title="Movi", Utsav Gold HD
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1411.ts
 #EXTINF:-1 tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Movi", Zee5 Originals (1080p)
@@ -825,6 +828,8 @@ https://t2.tvmak.com/tv/zicotv.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="Music",Zee ETC
 http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
+#EXTINF:-1 tvg-logo="https://assets.zee.com/uploads/imgo.jpeg" group-title="Music", Zee Music Co
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/303.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?token=soheliptv01826655778
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image981c50b08fa90648.png" group-title="Music",Deejay TV
