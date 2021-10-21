@@ -1044,6 +1044,33 @@ https://piratesiptv.shortcm.li/gazi.m3u8
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634838515&md5=Vj19Xi5jfpoeYOIXCcxpNg&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="Sports",Star Sports 3
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Bangla
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi
+http://nicefly.xyz:80/h21041003/651032140/246218
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 [1] 
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+http://172.17.50.112/live/antbd1007/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 [2]
+#http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
+#http://103.205.133.40/hls/chsp1.m3u8
+http://93.152.174.144:4000/play/ss1in/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 [3]
+#http://103.159.4.38:5868/SPORTS-2/index.m3u8
+http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 [ICC]
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+http://103.205.133.40/hls/chsp2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
+#http://jupiter.bdcabletv.com:80/ENC-4/playlist.m3u8
+http://93.152.174.144:4000/play/ss2in/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
+#http://103.109.56.116/live/skyfeed1022/index.m3u8
+#http://nicefly.xyz:80/h21041003/651032140/246220
+http://93.152.174.144:4000/play/ss3in/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
+#http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
 #http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
