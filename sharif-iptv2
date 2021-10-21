@@ -237,7 +237,8 @@ http://103.205.133.40/hls/chsj.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsha HD
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Bangla", Sony Aath
-http://103.205.133.40/hls/sony8.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
+#http://103.205.133.40/hls/sony8.m3u8
 #http://103.205.133.21/hls/sony8.m3u8
 #http://103.205.133.19/hls/sony8.m3u8
 #http://echootv.tv:2086/test_WOD4ZA/F2uwQOa9/257473
@@ -384,6 +385,8 @@ https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 http://nicefly.xyz:80/h21041003/651032140/246204
 #http://jo123.biz/jweb/m3u8.php?c=Sony_Max_SD&q=800&e=junk.m3u8
 #https://mslapacs.akamaized.net/hls/live/692167/setmaxaumsl2/setmaxau_1800k/chunklist.m3u8
+#https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/0d809269d684de8ef89d959c6df93bd8/auto
+#http://tvflixojim.hopto.org/jioo.php?c=Sony_Max_SD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movi", Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -393,10 +396,8 @@ http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #http://jo123.biz/jweb/m3u8.php?c=Sony_Max_SD&q=800&e=junk.m3u8
 #https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #http://jo123.biz/jweb/m3u8.php?c=Sony_Max_HD&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sony_Max_HD.svg/revision/latest/scale-to-width-down/180?cb=20191222183157" group-title="Movi", SET MAX
-https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/0d809269d684de8ef89d959c6df93bd8/auto
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/scale-to-width-down/220?cb=20200122044355" group-title="Movi", Sony Max2
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/883.ts
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/883.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Sony-sab-hd-logo.jpg/revision/latest/scale-to-width-down/200?cb=20161126174300" group-title="Movi", SONY SAB HD
 http://voxtv.dynns.com:8000/movies/movies/502
 #EXTINF:-1 tvg-id="SonyWAH.in" tvg-country="IN" tvg-language="" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Movi",Sony WAH
