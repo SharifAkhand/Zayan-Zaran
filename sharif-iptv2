@@ -366,7 +366,8 @@ http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #https://mslapacs.akamaized.net/hls/live/692167/ristheycineplex/ristheycineplex_1200k/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Movi", and Pictures
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6205.ts
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6205.m3u8
+#http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/6205.m3u8
 #http://10.16.100.204/hls/&_pic.m3u8
 #https://y5w8j4a9.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #http://landiptv.live:8080/iRCcIIWu4M/MzHdwFdqzD/125150
@@ -399,7 +400,7 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/883.ts
 http://voxtv.dynns.com:8000/movies/movies/502
 #EXTINF:-1 tvg-id="SonyWAH.in" tvg-country="IN" tvg-language="" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Movi",Sony WAH
 http://14.199.164.20:4001/play/a0os/index.m3u8
-#http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/882.ts
+#http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/882.m3u8
 #https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movi",Star Gold HD
 http://93.152.174.144:4000/play/stargold/index.m3u8
@@ -417,9 +418,9 @@ http://ottss.online:8000/44122162500170/30316873476781/178702
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Star_Utsav_UK.png/revision/latest/scale-to-width-down/250?cb=20190712150244" group-title="Movi",STAR UTSAV MOVIES
 http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Star_Maa_2020.jpg/revision/latest?cb=20200906144926" group-title="Movi", Star Ma Gold 
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7701.ts
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7701.m3u8
 #EXTINF:-1 tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/bltb486b94ffaba907b/6005ab504485e50f8f20882a/download" group-title="Movi", Utsav Gold HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1411.ts
+http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1411.m3u8
 #EXTINF:-1 tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Movi", Zee5 Originals (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-nJW4kDR4RKw/X56XelsO1CI/AAAAAAAAC90/wUrtQxLUx1QzDF3OE79TGhkpmuHunPlfwCLcBGAsYHQ/s600/09zeecinemazeecinema.jpg" group-title="Movi",Zee Cinema UK
@@ -498,10 +499,10 @@ http://14.199.164.20:4001/play/a0wh/index.m3u8
 http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest/scale-to-width-down/250?cb=20150308151545" group-title="Movi",B4U Movies
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-#http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/2391.ts
+#http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/2391.m3u8
 #EXTINF:-1 tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png" group-title="Movi",B4U Music
 http://14.199.164.20:4001/play/a0wh/index.m3u8
-#http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/2390.ts
+#http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/2390.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93SXp5ApEgDFQkD--2QS67C0HHn737ixa32K_o2tAbOv5_h9W_Uhx7ZcAPu0v6Jd9SV4&usqp=CAU" group-title="Movi", Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg" group-title="Movi",Wow Cinema
