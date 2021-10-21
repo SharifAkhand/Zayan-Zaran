@@ -1034,45 +1034,41 @@ http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/157931
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
-http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634838572&md5=HtU1G5jmbR_BcZNDOY6sfQ&user=ef3b0701f26743a4a12ce79435bc6d0d
+#http://103.159.4.38:8080/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #https://234b.short.gy/sydul.tsports.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports 2
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634838572&md5=HtU1G5jmbR_BcZNDOY6sfQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV 
 https://piratesiptv.shortcm.li/gazi.m3u8
 #http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #https://rebrand.ly/JB/GaziTvHD
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV-2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV HD
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634838515&md5=Vj19Xi5jfpoeYOIXCcxpNg&user=ef3b0701f26743a4a12ce79435bc6d0d
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="Sports",Star Sports 3
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Bangla
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Star_Sports_1_Bangla.png/revision/latest?cb=20190304172853" group-title="Sports",Star Sports 1 Bangla
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 Hindi
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest/scale-to-width-down/200?cb=20191214225552" group-title="Sports",Star Sports 1 Hindi
 http://nicefly.xyz:80/h21041003/651032140/246218
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 [1] 
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
-http://172.17.50.112/live/antbd1007/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 [2]
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Star_Sports_1.jpg/revision/latest?cb=20201230233908" group-title="Sports",Star Sports 1 
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+#http://172.17.50.112/live/antbd1007/index.m3u8
 #http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
 #http://103.205.133.40/hls/chsp1.m3u8
-http://93.152.174.144:4000/play/ss1in/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 1 [3]
+#http://93.152.174.144:4000/play/ss1in/index.m3u8
 #http://103.159.4.38:5868/SPORTS-2/index.m3u8
-http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2 [ICC]
-#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
-http://103.205.133.40/hls/chsp2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 2
-#http://jupiter.bdcabletv.com:80/ENC-4/playlist.m3u8
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Star_Sports_2.jpg/revision/latest?cb=20191214232359" group-title="Sports",Star Sports 2 
 http://93.152.174.144:4000/play/ss2in/index.m3u8
+#http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5430
+#http://103.205.133.40/hls/chsp2.m3u8
+#http://jupiter.bdcabletv.com:80/ENC-4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="Sports",Star Sports 3
 #http://103.109.56.116/live/skyfeed1022/index.m3u8
 #http://nicefly.xyz:80/h21041003/651032140/246220
 http://93.152.174.144:4000/play/ss3in/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112" group-title="Sports",Star Sports 3
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
