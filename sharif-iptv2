@@ -262,7 +262,8 @@ http://103.81.104.118/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/R_Plus_Gold.jpeg/revision/latest/scale-to-width-down/250?cb=20191230183135" group-title="Bangla",R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="Bangla", Enter 10 Bangla
-http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+http://103.81.104.118/hls/enterr10.m3u8
+#http://idvd.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
 #http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png/revision/latest/scale-to-width-down/200?cb=20210319122931" group-title="Bangla",Sun Bangla
 http://103.81.104.118/hls/sunbangla.m3u8
@@ -468,7 +469,8 @@ http://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Movi",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202006/zee-anmol.jpeg" group-title="Hindi",ZEE ANMOL
-https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
+#https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
+http://serivcestv.xyz:8080/3143631718254908/2598854265/218264
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="Movi",Zee Mundo
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-odisha-45.png" group-title="Movi",Zee Kalinga
@@ -491,6 +493,8 @@ https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/200?cb=20200608133037" group-title="Movi",Sony Movies Action
 http://51.52.156.22:8888/http/009
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Zee_Telugu_logo.jpeg" group-title="Movi",ZEE TELUGU
+http://serivcestv.xyz:8080/3143631718254908/2598854265/218228
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Movi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6E8SbCf.png" group-title="Movi",Yupp Thirai
@@ -673,9 +677,16 @@ http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
 http://142.44.213.115:8888/gta_tamil/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/c3VyeWFtYXguc3VyeWFtYXhfc2NyZWVuXzBfMTU1ODMwNDExMl8wNzk/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Movi", Arunai TV
 http://7starcloud.com:1935/live/arunaitv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/0TGdgivTG-B4NKtAGFcRLgK8EFNeACxUeyGkQcKTptgWSWebIF6VaNekDsZVd0piow" group-title="Movi", Aasai TV
+http://osaitv.livebox.co.in/osaihls/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kappa_TV.png/revision/latest?cb=20181211100632" group-title="Movi", Kappa TV
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
 
 
+
+EXTINF:-1 tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F142481b1dc747458b7a21a6f0571c9554fbd62095684a15f7c615c7e4bc66ed3.png" group-title="English Movi", Ark TV
+http://mediastreamer.7starcloud.com:1935/arktv/arktv/playlist.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/1200px-7flix_logo_2020.svg.png" tvg-name="7flix "  group-title="English Movi",7flix 
 https://i.mjh.nz/au/Sydney/tv.101305020525.m3u8
 EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="English Movi",& Flix HD
@@ -767,6 +778,7 @@ https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #http://feed.play.mv/live/10005200/7Lc21Ikj4q/1.m3u8
@@ -829,6 +841,10 @@ http://kcltv.livebox.co.in/kclhls/live.m3u8
 http://cdn.asianetmobiletvplus.com/channels/acvutsav_021c9292219a98f899a7b74f0f34baa7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/Krishna_TV.jpeg/revision/latest?cb=20200108095726" group-title="Hindi",Sri Krisna TV
 http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRoEXwkihVlPB9FH4kG-TjHzrcSUzLzFtvfQukKOg=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi",Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Music",ATN Music
@@ -1039,6 +1055,14 @@ http://162.244.81.145:2215/live/livestream/playlist.m3u8?@amarnettv.live
 https://rhridoy136.shortcm.li/makkahlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j7a8hcd.jpg" group-title="Islamic",Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://imamhussein.tv/image2021/TV02.png" group-title="Islamic",Imam Hossain Tv
+http://live.imamhossaintv.com/live/ih303/index.m3u8
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/34/2f/83/342f8317-a727-eb5b-1fb8-2a1d9b807d20/source/512x512bb.jpg" group-title="Islamic",Hidayat TV
+https://5928f90056f31.streamlock.net/hidayat-live/hidayat/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSs2FG0HRgoh0vUyXzAbmosnUKtsXKQPDjIxtMc=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic", Ali TV
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+
+
 
 
 
@@ -1099,6 +1123,8 @@ https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557" group-title="Cartoon",DISCOVERY KIDS HD
 http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/157931
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Spacetoon_logo.png/revision/latest?cb=20180926071319" group-title="Cartoon", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 
 
 
@@ -1303,9 +1329,11 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 http://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Discovery", Animal Planet HD Englsh
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Discovery", Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Discovery", Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Discovery",Discovery Bangla HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Discovery", Animal Planet HD
+http://idvd.multitvsolution.com/idvo/aphdhindi.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/444-4448705_mihsign-vision-animal-planet-hd-logo-hd-png.png" group-title="Discovery",Discovery Bangla HD
 http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 #https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
 #http://otv.ftpbd.net/streams/121/index.m3u8
@@ -1316,7 +1344,9 @@ http://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Discovery", Discovery Science English
 https://idvd.multitvsolution.com:443/idvo/discoverscienceeng_540p/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Discovery", Discovery 
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/6b/6b81c7bbc9baf054b4b45f6d21b16289.jpeg" group-title="Discovery", Discovery HD
+http://103.81.104.118/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Discovery", Discovery
 https://idvd.multitvsolution.com/idvo/discoveryeng_540p/index.m3u8
 #http://jo123.biz/jweb/m3u8.php?c=Discovery_Channel_Bengali&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Discovery", Discovery Turbo
@@ -1362,6 +1392,8 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://idvd.multitvsolution.com/idvo/tlchindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="FASHION", TLC SD Hindi2
 https://idvd.multitvsolution.com/idvo/tlchindi_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="FASHION", TLC Hindi
+http://103.81.104.118/hls/enterr10.m3u8
 #EXTINF:-1 tvg-logo="https://www.zap.co.ao/media/cache/movie_thumb/uploads/ao/channels/5762b5256aff3.png" group-title="FASHION",TPA 1 (480p)
 https://iptv-all.lanesh4d0w.codes/angola/tpa1
 #EXTINF:-1 tvg-logo="https://www.tvzimbo.ao/temas/tvzimbo/assets/img/logo-programacao.png" group-title="FASHION",TV Zimbo (720p)
