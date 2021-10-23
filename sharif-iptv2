@@ -1073,12 +1073,11 @@ http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/SS1Hindi.jpg/revision/latest/scale-to-width-down/200?cb=20191214225552" group-title="Sports",Star Sports 1 Hindi
 http://nicefly.xyz:80/h21041003/651032140/246218
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Star_Sports_1.jpg/revision/latest?cb=20201230233908" group-title="Sports",Star Sports 1 
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://93.152.174.144:4000/play/ss1in/index.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #http://172.17.50.112/live/antbd1007/index.m3u8
 #http://babutv.aliflailabd.com:8989/star-sports1/index.m3u8
 #http://103.205.133.40/hls/chsp1.m3u8
-#http://93.152.174.144:4000/play/ss1in/index.m3u8
 #http://103.159.4.38:5868/SPORTS-2/index.m3u8
 #http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5431
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest/scale-to-width-down/250?cb=20170728071015" group-title="Sports",Star Sports 1 HD
