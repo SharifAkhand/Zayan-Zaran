@@ -319,6 +319,10 @@ https://rhridoy136.shortcm.li/dbcnews.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #http://103.205.133.40/hls/dbcnews.m3u8
 #https://www.youtube.com/watch?v=QHI8OhB5bd4
+#EXTINF:-1 tvg-logo="https://www.tbn24.com/public/website_logo.png" group-title="News",TBN 24 USA IPTV
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tv24bangla.co.in/upload/logo.png" group-title="News",TV24 Bangla
+http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nbc-news-logo-EDDBA8ADC9-seeklogo.com.png" group-title="News",NBC News
 https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 #EXTINF:-1 tvg-logo="https://edge-cdn.pratidintime.com/2018/05/pratidin-time-logo.png" group-title="News",Pratidin Time
@@ -811,6 +815,8 @@ https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_Tv.jpeg" group-title="Hindi",Zee TV HD USA
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201901/zee-anmol.jpg" group-title="Hindi",Zee Anmol Cinema
+http://208.115.215.42/ZEE_Anm0l_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/l31LSCkGK8VE7LsrLYmMhVDRWF56ivbOJ7POqoUFrrla9lKuGLpKd25Vab3Eo41b3js" group-title="Hindi",KCV Tv
 http://198.144.149.82:8080/NOTV/KCVTV/index.m3u8?token=GTR
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Ayush_TV.jpeg/revision/latest?cb=20191227132751" group-title="Hindi",Ayush TV
