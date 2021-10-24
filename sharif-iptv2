@@ -1426,4 +1426,14 @@ https://iptv-all.lanesh4d0w.codes/andorra/atv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://dove.org/wp-content/uploads/DOVElogo.jpg" group-title="FASHION",Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/9PRCKlHI_WRY-xNwoQCS91PS2c08saz-hpZn44QdiEp1SThEayJbtEEqMIPSjytEP0Gx8dVc1r6q0NGNzEfXyuY-8pc2ykDJij5DEiQPY-pFV7bBx_Zjkgf-N3R0od0SsiOHnmP2HyeaeA" group-title="FASHION",JASMIN TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/03/65/59/66/360_F_365596628_MHeLq7TecRTnuWbJKIC0sRX4JQxgclEo.jpg" group-title="FASHION",Gamer (Hindi Dubbed)
+https://llvod.mxplay.com/video/cc2b17d16c61eb2fd7e598361fb00768/1/hls/h264_1080_high_5800k.m3u8
+#EXTINF:-1 tvg-logo="https://tv-kanali.online/wp-content/uploads/2019/03/luxury-tv.jpg" group-title="FASHION",Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/bLkIxmquw3d-d9wZs4Q0ToFpcl7yY9Stwxa_6KyP18-Huwal1QFmj7TPlnbaBynVYmhdxgQiUrv-SvXx9k9Q9kQuJSHKF-LPQgRFrqE0renmMZpOlCvafLdgx_dpf0wKfemRj4Usqwk" group-title="FASHION",A3 Bikini
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 
+
+https://llvod.mxplay.com/video/cc2b17d16c61eb2fd7e598361fb00768/1/hls/h264_1080_high_5800k.m3u8
