@@ -441,7 +441,7 @@ http://14.199.164.20:4001/play/a0os/index.m3u8
 #http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/882.m3u8
 #https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-103 tvg-logo="https://www.pngitem.com/pimgs/m/245-2459623_no-image-star-gold-channel-logo-hd-png.png" group-title="Movi",Star Gold
-http://nicefly.xyz:80/h21041003/651032140/246239
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 #EXTINF:-103 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="Movi",Star Gold HD
 http://93.152.174.144:4000/play/stargold/index.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
@@ -460,7 +460,8 @@ http://103.205.133.44:1935/ns/STARUTSAVMOVIES/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Star_Maa_2020.jpg/revision/latest?cb=20200906144926" group-title="Movi", Star Ma Gold 
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7701.m3u8
 #EXTINF:-1 tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/bltb486b94ffaba907b/6005ab504485e50f8f20882a/download" group-title="Movi", Utsav Gold HD
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1411.m3u8
+http://nicefly.xyz:80/h21041003/651032140/246239
+#http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1411.m3u8
 #EXTINF:-1 tvg-logo="https://logovtor.com/wp-content/uploads/2020/12/zee5-logo-vector.png" group-title="Movi", Zee5 Originals (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-nJW4kDR4RKw/X56XelsO1CI/AAAAAAAAC90/wUrtQxLUx1QzDF3OE79TGhkpmuHunPlfwCLcBGAsYHQ/s600/09zeecinemazeecinema.jpg" group-title="Movi",Zee Cinema UK
