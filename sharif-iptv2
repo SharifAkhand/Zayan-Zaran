@@ -83,6 +83,8 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #https://rhridoy136.shortcm.li/channeli.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Channel.svg/revision/latest?cb=20171118151801" group-title="Bangla",The Channel TV
 http://str24.l9574.com/518.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/123608029_172735657842604_898876410891343778_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=nUgt9JiV7MAAX85ZYv5&_nc_ht=scontent.fdac116-1.fna&oh=6cff71c506d7930f5fe248027537a0a0&oe=619960BF" group-title="Bangla",Tarongo TV
+http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
 #EXTINF:-1 tvg-logo="https://channeltt.tv/uploads/meta_image/small-logo.png" group-title="Bangla",Channel TT IPTV
 https://www.cdn.streamcast.xyz:19360/channeltt/channeltt.m3u8
 #https://2-fss-2.themediacdn.com/pl_118/amlst:201982-1318992/playlist.m3u8?Live-TV™
