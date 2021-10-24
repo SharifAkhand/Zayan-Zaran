@@ -12,8 +12,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://extreme.com.bd/Uploads/Photos/amarbangla.tv-Kazi-Mohammad-Jahangir-Alam.2714..png" group-title="Bangla", Amar bangla
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png" group-title="Bangla",Asian TV
-http://103.81.104.118/hls/Asian_TV.m3u8
-#http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/527.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/527.m3u8
+#http://103.81.104.118/hls/Asian_TV.m3u8
 #https://rhridoy136.shortcm.li/asiantv.m3u8
 #http://103.205.133.40/hls/asiantv.m3u8
 #EXTINF:-1 tvg-logo="https://www.bangladeshcircle.com/wp-content/uploads/2016/06/agami-TV-logo.jpg" group-title="Bangla",Agami TV
@@ -33,13 +33,14 @@ https://rhridoy136.shortcm.li/banglavisiontv.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #http://103.205.133.40/hls/banglavision.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/H9qgGSc.png" group-title="Bangla", Bangladesh Television
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2132.m3u8
-#http://103.106.2.149:13456/btv.m3u8
+http://103.106.2.149:13456/btv.m3u8
+#http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2132.m3u8
 #https://234b.short.gy/sydul.btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTZelfs.png" group-title="Bangla", Bangladesh Television CTG
 http://103.106.2.149:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://live.staticflickr.com/8163/7570254906_e5ac26aae2_m.jpg" group-title="Bangla",BTV World
-https://234b.short.gy/sydul.btvworld.m3u8
+http://103.106.2.149:13456/btv_world.m3u8
+#https://234b.short.gy/sydul.btvworld.m3u8
 #https://rhridoy136.shortcm.li/btvworld.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangla",BOISHAKHI TV HD
@@ -71,7 +72,8 @@ http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qruo84PP04jnPb1rC1TR67DHd5gU9CfP8mZtdh2kVbbGB9equQKFIGjlYK4k62TJ8Yk" group-title="Bangla",CNN Bangla
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fj8nxOw.png" group-title="Bangla", Channel 9 HD
-http://103.205.133.40/hls/ninechannel.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#http://103.205.133.40/hls/ninechannel.m3u8
 #https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #https://piratesiptv.shortcm.li/channel9.m3u8
 #EXTINF:-1 tvg-logo="https://channel19.tv/wp-content/uploads/2020/12/Channel-19-Logo-White.png" group-title="Bangla", Channel 19
@@ -127,8 +129,8 @@ https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-TViCNxP7IPA/X8VRu6_QpnI/AAAAAAAABEg/KNUy4e-F-BUIj6rl-kWzahXB7JXzrqsKgCLcBGAsYHQ/s16000/Falguni-TV-logo.png" group-title="Bangla",Falguni TV
 https://atv-hls.telelivebd.com:443/atv/atv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla", Gazi TV HD
-http://103.81.104.118/hls/Gazi-TV.m3u8
-#https://rebrand.ly/JB/GaziTvHD
+#http://103.81.104.118/hls/Gazi-TV.m3u8
+https://rebrand.ly/JB/GaziTvHD
 #http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #http://10.16.100.207:8082/sports/TH_gtv-local.m3u8
