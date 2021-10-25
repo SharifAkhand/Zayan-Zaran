@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="Bangla", ICC World Cup 2021
+
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/non_transcode/us-west-2/periscope-replay-direct-live/master_dynamic_highlatency.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
