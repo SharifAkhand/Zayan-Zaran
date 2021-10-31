@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="ICC World Cup", Tv1
 http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="ICC World Cup", Tv2
-https://tinyurl.com/36ahs3y6
+http://ztvuk.com:80/9tsQfFaeTJ/hpd9sVIvFM/12191
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="ICC World Cup", Tv3
 http://45.127.244.7:8080/hls/channel15.m3u8
 http://172.27.27.3:8081/local/Carton_Network/chunks.m3u8
