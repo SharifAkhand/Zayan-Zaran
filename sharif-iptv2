@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="ICC World Cup", Tv1
-http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="ICC World Cup", Tv2
 https://tinyurl.com/36ahs3y6
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="ICC World Cup", Tv3
@@ -259,9 +259,10 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
+https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebangla
 #http://103.205.133.40/hls/zeebanglahd.m3u8
 #https://rhridoy136.shortcm.li/zeebanglahd.m3u8
-http://173.199.120.51/hls/zeebanglahd.m3u8
+#http://173.199.120.51/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b7134d2d38b51045cf87eb7/1565809256512/6a5962de199ceea482a5ed552f355634.png" group-title="Bangla", Zee Bangla HD
 http://175.41.46.16:8081/hls/6.m3u8
 #http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/975.m3u8
@@ -395,6 +396,7 @@ http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C2xIgC5.jpg" group-title="Movi",AAMAR CINEMA [IN]                          
 https://sony247channels.akamaized.net/hls/live/2008247/AamarCinema/master.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Movi", Zee Bangla Cinema HD
+#https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebanglacinema
 http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
 #http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7906.ts
 #https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/playlist.m3u8
@@ -451,7 +453,8 @@ http://nicefly.xyz:80/h21041003/651032140/246204
 #https://streamer-1.toffeelive.com/mobile_hls/set_max_hd/5/0d809269d684de8ef89d959c6df93bd8/auto
 #http://tvflixojim.hopto.org/jioo.php?c=Sony_Max_SD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movi", Sony Max HD 
-https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -504,7 +507,8 @@ https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Movi", Zee Cinema HD
-http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+#http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
@@ -844,7 +848,8 @@ https://feed.play.mv/live/10005200/MKj28KXjmn/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi", Sony Entertainment HD
-https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #http://feed.play.mv/live/10005200/7Lc21Ikj4q/1.m3u8
 #http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #http://tvflixtn.ddns.net/hls/chs.m3u8
@@ -857,14 +862,18 @@ http://103.205.133.44:1935/ns/STARBHARATHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oBXBjk6.png" group-title="Hindi",Star Maa [Geo-blocked]
 http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors HD
-https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+#https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #https://feed.play.mv/live/10005200/6G8zJ9XsyB/1.m3u8
 #http://173.199.120.51/hls/chc.m3u8
 #http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi", Colors Tv
+https://feed.play.mv/live/10005200/6G8zJ9XsyB/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="Hindi", Zee TV
 https://feed.play.mv/live/10005200/HXW3hMDfn5/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi", Zee TV HD
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 #https://f8e7y4c6.ssl.hwcdn.net/apacsea/playlist.m3u8
 #http://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-web.heartfulness.org/en/wp-content/uploads/2020/09/ZEE-TV-Canada-HD-ipd-logo.jpeg" group-title="Hindi",Zee TV HD Canada
@@ -989,6 +998,8 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1059.ts
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PNJgnik.png" group-title="Music",9xO (1)
 http://103.141.66.36/bpk-tv/10140/default/manifest.mpd?=.m3u8
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Music",Sun Music HD
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w303707639.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="Music",Ary Musik
 http://103.141.66.36/bpk-tv/10089/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Qmusiclogo2015red.jpg/220px-Qmusiclogo2015red.jpg" group-title="Music",Q Music
