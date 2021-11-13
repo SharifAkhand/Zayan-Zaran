@@ -139,6 +139,7 @@ http://103.205.133.40/hls/deshtv.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/161
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://digibangla.tv/assets/img/logo-tv.png" group-title="Bangla", Digi Bangla 24 HD
@@ -313,10 +314,11 @@ https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
 #http://137.59.155.253:8088/hls/Star_Jalsha.m3u8
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Bangla", Sony Aath
-http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/81
+#http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Bangla", Colors Bangla HD
-http://103.81.104.118/hls/colorsbangla.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/78
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/R_Plus_Gold.jpeg/revision/latest/scale-to-width-down/250?cb=20191230183135" group-title="Bangla",R Plus Gold
 http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
@@ -437,14 +439,14 @@ http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
 #http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movi", Star Jalsha Movies
-http://103.81.104.118/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movi", Star Jalsha Movies HD
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Movi", Tollywood [IN]
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ovmlAb1.jpg" group-title="Movi", Tele Film [IN]  
-http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/162
 
 
 
@@ -919,9 +921,10 @@ http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzb
 #https://rhridoy136.shortcm.li/rtvmusic.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="Music",Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTzEQ9heTuhfYJcQAMkTkhi3-vFnFAN2QWDXyLlMGmyJCqafMF&usqp=CAU" group-title="Music", Dhoom Music
-#http://103.205.133.21/hls/dhoommusic.m3u8?token=soheliptv01826655778
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/7916.ts
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/98
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l6BlALg.jpg" group-title="Music",Music Fatafati
 https://edge01.iptv.digijadoo.net/live/music_fatafati/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/bangla-talkies-logo-150x150.jpg" group-title="Music",Bangla talkies
