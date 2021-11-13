@@ -9,6 +9,9 @@ http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="ICC World Cup",ICC World Cup (T Sports)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="ICC World Cup",ICC World Cup (Star Sports 1HD)
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/300
+
 #Sharif Akhand/Bangladeshi Tv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="Bangla", ATN Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
@@ -461,10 +464,10 @@ http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Movi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="Movi", and Pictures
-http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Movi", and Pictures
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/playlist.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/317
+
 #EXTINF:-98 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="Movi", and Pictures HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 http://jo123.biz/jweb/m3u8.php?c=And_Pictures_HD&q=800&e=.m3u8
@@ -1009,7 +1012,8 @@ https://t2.tvmak.com/tv/zicotv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png" tvg-name="ZEE Zing "  group-title="Music",ZEE Zing 
 https://f8e7y4c6.ssl.hwcdn.net/zing/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/ZeeETCBollywoodLogo.png" group-title="Music",Zee ETC
-http://iptv.kitv.live:1935/live/Shari/MTV-P/73.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/88
+
 #EXTINF:-1 tvg-logo="https://assets.zee.com/uploads/imgo.jpeg" group-title="Music", Zee Music Co
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/303.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="Music",MTV
