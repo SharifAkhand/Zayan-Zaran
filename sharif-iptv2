@@ -76,11 +76,21 @@ http://str24.l9574.com/515.stream/index.m3u8
 #EXTINF:-1 tvg-logo="http://priyo-image.s3.amazonaws.com/business_photos/logo/5dd1ac87-3e92-45a4-af77-50d75e2c090d.jpg" group-title="Bangla",BD Live Tv
 https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8?Live-TV™
 
+#EXTINF:-1 tvg-logo="https://www.iptvplayers.com/wp-content/uploads/2021/03/BD-IPTV.png" group-title="Bangla",BD IP TV
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
+
 #EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/02/Bangla21-tv.jpg" group-title="Bangla",Bangla 21 TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/4b/27/45/4b2745ca9b244d8ac0c647c72a27bdc9--tv-channels-history-channel.jpg" group-title="Bangla",Channel H 
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channelhtv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.channels.com.bd/wp-content/uploads/2021/03/Logo-Final.png" group-title="Bangla",Channel S BD
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/177
+#EXTINF:-1 tvg-logo="https://www.mediabangladesh.net/wp-content/uploads/2015/02/channel-s-uk.jpg" group-title="Bangla",Channel S HD
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/93
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Qruo84PP04jnPb1rC1TR67DHd5gU9CfP8mZtdh2kVbbGB9equQKFIGjlYK4k62TJ8Yk" group-title="Bangla",CNN Bangla
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8
@@ -125,6 +135,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.205.133.40/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/191
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="Bangla", Duronto TV 
@@ -144,6 +155,9 @@ https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzb
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
 https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-logo="https://eurobanglatv.net/upload/header/Euro-Bangla-TV-Logo.png" group-title="Bangla", Euro Bangla TV
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/222
 
 #EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-TViCNxP7IPA/X8VRu6_QpnI/AAAAAAAABEg/KNUy4e-F-BUIj6rl-kWzahXB7JXzrqsKgCLcBGAsYHQ/s16000/Falguni-TV-logo.png" group-title="Bangla",Falguni TV
 https://atv-hls.telelivebd.com:443/atv/atv.m3u8
@@ -191,7 +205,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://enaniptv.com/magicbanglatv/1080/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangla",Nagorik TV
-http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/171
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xJjQP6L/Nan-Tv-Logo-Final.png" group-title="Bangla",NAN TV
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
@@ -287,12 +301,16 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 
 #Sharif Akhand/Indian Bangla
+#EXTINF:-1 tvg-logo="https://tma-live.s3.ap-south-1.amazonaws.com/medias/5b7134d2d38b51045cf87eb7/1565809256512/6a5962de199ceea482a5ed552f355634.png" group-title="Bangla", Zee Bangla HD
+https://last.gcdn.co/IND389/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
-https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebangla
+http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
+#https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebangla
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Bangla", Star Jalsha HD
-http://137.59.155.253:8088/hls/Star_Jalsha.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Bangla", Star Jalsha HD
+https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+#http://137.59.155.253:8088/hls/Star_Jalsha.m3u8
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Bangla", Sony Aath
 http://jo123.biz/jweb/m3u8.php?c=Sony_aath&q=600&e=junk.m3u8
@@ -414,8 +432,10 @@ http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C2xIgC5.jpg" group-title="Movi",AAMAR CINEMA [IN]                          
 https://sony247channels.akamaized.net/hls/live/2008247/AamarCinema/master.m3u8?
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Movi", Zee Bangla Cinema HD
-http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Movi", Zee Bangla Cinema
+http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
+#http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movi", Star Jalsha Movies
 http://103.81.104.118/hls/jalshamovies.m3u8
@@ -433,16 +453,19 @@ http://telelive.livebox.co.in/telefilmhls/telefilmtv.m3u8
 #Sharif Akhand/Hindi Movi
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg/revision/latest/scale-to-width-down/250?cb=20190303081046" group-title="Movi",COLORS CINEPLEX HD
 http://103.81.104.118/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movi",COLORS CINEPLEX HD
+http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Movi",COLORS CINEPLEX
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Movi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="Movi", and Pictures 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="Movi", and Pictures
 http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Movi", and Pictures
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-98 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="Movi", and Pictures HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+http://jo123.biz/jweb/m3u8.php?c=And_Pictures_HD&q=800&e=.m3u8
 #EXTINF:-98 tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="Movi", And Gold
 http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest?cb=20200108100316" group-title="Movi", Zoo Music
@@ -450,6 +473,7 @@ https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png" group-title="Movi", SONY MAX
 http://nicefly.xyz:80/h21041003/651032140/246204
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movi", Sony Max HD 
+#http://jo123.biz/jweb/m3u8.php?c=Sony_Max_HD&q=800&e=.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e1
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Sony_Max_2.svg/revision/latest/scale-to-width-down/220?cb=20200122044355" group-title="Movi", Sony Max2
 http://m3u.rapid-ott.com:8080/3173434353113478/2598854265/218186
