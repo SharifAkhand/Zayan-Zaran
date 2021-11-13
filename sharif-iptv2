@@ -536,6 +536,9 @@ https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
 #EXTINF:-105 tvg-chno="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg" group-title="Movi", Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 
+#EXTINF:0 tvg-logo="https://www.linkpicture.com/q/Zee-classic.png" group-title="Movi",ZEE CINEMA CLASSIC
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64117
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="Movi", Zee Action HD
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
@@ -1549,6 +1552,28 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 http://stop.next-code.xyz:2052/Nador/66263/24232
 #EXTINF:-1 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Sports",Sky 2 HD
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY SPORT ARENA HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63256
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY SPORT SERIE A HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY SPORT 24 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63258
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY MOTO GP HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63259
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY SPORT F1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63260
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY SPORT 251 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63261
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY SPORT 252 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63262
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY SPORT 253 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63263
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png" group-title="Sports", SKY SPORT 254 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63264
+
+
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports",Willow HD
 http://mytv.fun:8080/dnm2ygwyn9/uhm90xzw0z/5437
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="Sports",WILLOW CRICKET XTRA
