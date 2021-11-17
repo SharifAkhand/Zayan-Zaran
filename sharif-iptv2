@@ -1625,7 +1625,7 @@ http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 https://rhridoy136.shortcm.li/sonic.m3u8
 
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Cartoon", Sonic Bangla
-https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524671
+http://65.2.4.240/jioo.php?c=Sonic_Bangla&q=1200&e=.m3u8
 
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Cartoon", Sonic Hindi
 https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524672
