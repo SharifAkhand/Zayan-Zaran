@@ -745,13 +745,18 @@ https://live.bongobd.com/hls/H_nJGUhAw9CSZaekFzwmIg/1634414302/atn_music.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8EQUXgPvnJjPH95nBiBkRMi_nk5x4yomVLA&usqp=CAU" group-title="Movi",Maha Movie
-http://14.199.164.20:4001/play/a0q7/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/218
+#http://14.199.164.20:4001/play/a0q7/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fPuBXRz.jpg" group-title="Movi",MANORANJAN MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/216
+#https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Manoranjan_Grand.jpeg/revision/latest/scale-to-width-down/300?cb=20191220115523" group-title="Movi",Manoranjan Grand TV
 http://14.199.164.20:4001/play/a0m2/index.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dabangg_in.png" group-title="Movi",Dabangg TV
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/219
 
 #EXTINF:-1 tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/large_16_9.jpg" group-title="Movi",Shemaroo Bollywood Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
@@ -1411,6 +1416,9 @@ http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3xSS9fw9/Pop-Patakha-Hungama.png" group-title="Music",Pop HUNGAMA
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://i.imgur.com/z1KQxTk.png",group-title="Music",Pop Pataka
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/305
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Ptc_Music.jpg/revision/latest?cb=20191217212601" group-title="Music", PTC MUSIC
 http://195.181.169.151:8080/ptc_music_pun/tracks-v1a1/mono.m3u8
