@@ -98,9 +98,6 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="Bangla", Channel I HD
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Channel.svg/revision/latest?cb=20171118151801" group-title="Bangla",The Channel TV
-http://str24.l9574.com/518.stream/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://scontent.fdac116-1.fna.fbcdn.net/v/t1.6435-9/123608029_172735657842604_898876410891343778_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=973b4a&_nc_ohc=nUgt9JiV7MAAX85ZYv5&_nc_ht=scontent.fdac116-1.fna&oh=6cff71c506d7930f5fe248027537a0a0&oe=619960BF" group-title="Bangla",Tarongo TV
 http://stream.telelivebd.com/Torongotv/Torongotv.m3u8
 
@@ -155,7 +152,8 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/222
 https://atv-hls.telelivebd.com:443/atv/atv.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image7706cc8618fc9938.png" group-title="Bangla", Gazi TV HD
-https://rebrand.ly/JB/GaziTvHD
+https://236s.short.gy/DreamTV/GTV.m3u8
+#https://rebrand.ly/JB/GaziTvHD
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOSYx2VvUR0itVtlptQ9-LwhM6L3EL3rlSKw0T-=w600-h0" group-title="Bangla",Hernet IPTV
 https://server1.jadubd.com/hernettv/hernettv/chunklist_w604863394.m3u8?Live-TV™
@@ -277,6 +275,9 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T Sports HD
 http://113.212.111.246:8080/hls/col2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Channel.svg/revision/latest?cb=20171118151801" group-title="Bangla",The Channel TV
+http://str24.l9574.com/518.stream/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw" group-title="Bangla", TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
