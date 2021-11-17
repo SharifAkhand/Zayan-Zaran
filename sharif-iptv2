@@ -473,25 +473,39 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/162
 
 
                                                          #Sharif Akhand/Hindi Movi#
-                                                         
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Colors_Cineplex_HD_Logo_Bug.jpg/revision/latest/scale-to-width-down/250?cb=20190303081046" group-title="Movi",COLORS CINEPLEX HD
-http://103.81.104.118/hls/colorscineplex.m3u8
-
+                                                        
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Movi",COLORS CINEPLEX HD
-http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
+http://65.2.4.240/jioo.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
+#http://jo123.biz/jweb/m3u8.php?c=Colors_Cineplex_HD&q=800&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.viacom18.com/stg/wp-content/uploads/2020/07/07184329/5ca20f401caacchannel-cineplex.png" group-title="Movi",COLORS CINEPLEX
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Movi", Colors Infinity HD
+http://65.2.4.240/jioo.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
+
 #EXTINF:-110 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Rishtey-Cineplex-logo-2.jpg" group-title="Movi",Risty Cinaplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Movi", Colors Super
+http://65.2.4.240/jioo.php?c=Colors_Super&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Movi", Colors Kannada HD
+http://65.2.4.240/jioo.php?c=Colors_Kannada_HD&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Movi", Colors Tamil HD
+http://65.2.4.240/jioo.php?c=Colors_Tamil_HD&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Movi", Colors Oriya
+http://65.2.4.240/jioo.php?c=Colors_Oriya&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/%26pictures.svg/revision/latest?cb=20201011095253" group-title="Movi", and Pictures
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/317
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/92
 
 #EXTINF:-98 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="Movi", and Pictures HD
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvpictureshd
+http://65.2.4.240/jioo.php?c=And_Pictures_HD&q=1200&e=.m3u8
+#https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvpictureshd
 
 #EXTINF:-98 tvg-logo="https://i.imgur.com/UzPPjoH.jpg" group-title="Movi", And Gold
 http://cdn.asianetmobiletvplus.com/channels/adngold_dibbcspwxywdcuwawgrvurjwitwbiksl/playlist.m3u8
@@ -561,8 +575,8 @@ http://f8e7y4c6.ssl.hwcdn.net/classic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F7g0l9E.jpg" group-title="Movi",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/202006/zee-anmol.jpeg" group-title="Hindi",ZEE ANMOL
-http://serivcestv.xyz:8080/3143631718254908/2598854265/218264
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Movi", Zee Anmol Cinema
+http://65.2.4.240/jioo.php?c=Zee_Anmol_Cinema&q=1200&e=.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Zee_mundo_Logo.jpg/220px-Zee_mundo_Logo.jpg" group-title="Movi",Zee Mundo
 https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
@@ -570,11 +584,11 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://english.cdn.zeenews.com/images/logo/zee-odisha-45.png" group-title="Movi",Zee Kalinga
 https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2008/07/Kairali-We-Tv-Logo-1200x1078.jpg" group-title="Movi",Kairali We
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Movi",Zee TAMIL
 https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="Movi", Zee Rajasthan
+http://65.2.4.240/jioo.php?c=Zee_Rajasthan&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Zee_smile.png/revision/latest/scale-to-width-down/2000?cb=20210514131333" group-title="Movi", Zee Smile
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
@@ -591,14 +605,43 @@ https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/00/Zee_Classic.png/revision/latest/scale-to-width-down/200?cb=20100709071245" group-title="Movi",Zee Classic
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Movi", Zee Salaam
+http://65.2.4.240/jioo.php?c=Zee_Salaam&q=1200&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_427/PORTRAIT/TqtHUlxj.png" group-title="Movi",Zee Talkies
 https://f8e7y4c6.ssl.hwcdn.net/ztalkieshd/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Movi", Zee Yuva
+http://65.2.4.240/jioo.php?c=Zee_Yuva&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Movi", Zee Marathi
+http://65.2.4.240/jioo.php?c=Zee_Marathi&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/200?cb=20200608133037" group-title="Movi",Sony Movies Action
 http://51.52.156.22:8888/http/009
 
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movi", Zee Cinemalu
+http://65.2.4.240/jioo.php?c=Zee_Cinemalu&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Movi", Zee Odisha
+http://65.2.4.240/jioo.php?c=Sarthak_TV&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="Movi", Zee Kalinga
+http://65.2.4.240/jioo.php?c=Zee_Kalinga&q=1200&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2f/Zee_Telugu_logo.jpeg" group-title="Movi",ZEE TELUGU
 http://serivcestv.xyz:8080/3143631718254908/2598854265/218228
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Movi", Zee Telugu
+http://65.2.4.240/jioo.php?c=Zee_Telugu&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="Movi", Zee Purvaiya
+http://65.2.4.240/jioo.php?c=Zee_Purvaiya&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="Movi", Zee Punjabi HP Haryana
+http://65.2.4.240/jioo.php?c=Zee_Punjabi_HP_Haryana&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.keralatv.in/media/2008/07/Kairali-We-Tv-Logo-1200x1078.jpg" group-title="Movi",Kairali We
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Movi",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
@@ -609,6 +652,9 @@ http://119.81.82.28:80/encoded/yuppthirai_800/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jWIyZJf.jpg?1" group-title="Movi",MOVIE EXPRESS
 http://bbnnews.livebox.co.in/Movieexpresshls/live.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Movi", Mazavali Manorama HD
+http://65.2.4.240/jioo.php?c=Mazavali_Manorama_HD&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="BBO" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/bbo-white.png" group-title="Movi", BBO
 https://yuppcatchup.akamaized.net/preview/bbo/2500.m3u8
@@ -627,6 +673,20 @@ http://14.199.164.20:4001/play/a0o5/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.trackdish.com/wp-content/uploads/2021/04/dhinchaak-2-channel-logo-min.jpg" group-title="Movi",Dhinchaak 2 TV
 http://14.199.164.20:4001/play/a0tm/index.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Movi", ETV Cinema
+http://65.2.4.240/jioo.php?c=ETV_Cinema&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Movi", ETV Plus
+http://65.2.4.240/jioo.php?c=ETV_Plus&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Movi", ETV Life
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Movi", ETV Abhiruchi
+http://65.2.4.240/jioo.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Movi", J Movies
+http://65.2.4.240/jioo.php?c=J_Movies&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TCRYibC.png" group-title="Movi",ABZY MOVIES
 http://103.141.66.36/bpk-tv/10076/default/manifest.mpd?=.m3u8
@@ -698,6 +758,13 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 
 #EXTINF:-1 tvg-logo="https://247tamilradios.com/storage/images/tvs/94dd733daa6b98c2f4a43a142b630610.png" group-title="Movi",Santhora Short Flim
 http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" group-title="Movi", Surya Samachar
+http://65.2.4.240/jioo.php?c=Surya_Samachar&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="Movi", Surya Cinema
+http://65.2.4.240/jioo.php?c=Surya_Cinema&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png" group-title="Movi", Surya Bhakti
+http://65.2.4.240/jioo.php?c=Surya_Bhakti&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YDTgl6F.jpg" group-title="Movi",Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
@@ -1565,6 +1632,9 @@ https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524672
 
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon", Nick Bangla
 https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524673
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon", Nick Bangla HD
+http://65.2.4.240/jioo.php?c=Nick_Bangla&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" tvg-name="MBC 3"  group-title="Cartoon",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
