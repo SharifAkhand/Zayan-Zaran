@@ -183,6 +183,9 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRtkt1BgUC-EQqPl2j1DrDEtNNejTm1tXSr-TvA=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",iON TV UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkB6qXdV6i26Ba8jnqAItDB_KvMvLnLBANkA&usqp=CAU" group-title="Bangla", Jagoron Tv
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524641
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/845559853540040704/Q1eC2EZ1_400x400.jpg" group-title="Bangla",Jonmobhumi TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/chunks.m3u8
 
@@ -1151,6 +1154,14 @@ http://ottss.online:8000/44122162500170/30316873476781/178763
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png" group-title="Music",Hangama Music
 https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/FY6qqqT.jpg" group-title="Music", i love
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524685
+#EXTINF: -1 tvg-logo="https://i.imgur.com/PdAbub2.png" group-title="Music", Dil Se
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524686
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cMvStlH.png" group-title="Music", Sun Music
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524687
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JMJ4AgN.jpg" group-title="Music", ACV Utsav
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524688
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k922iYy.png" group-title="Music",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi4jJBc73mt_smUD1ISUgRcTLb5OHNHWu1suvb3RVbqIq49gBQ4RLwbjc4O7u1yku9GG0&usqp=CAU" tvg-name="7 MUSIC"  group-title="Music",7 MUSIC
@@ -1394,6 +1405,12 @@ http://51.91.73.99:25461/usachannel/ngZnG8PD5i/15500
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Sonic_Nickelodeon.png/revision/latest?cb=20111210132954" group-title="Cartoon",Sonic
 https://rhridoy136.shortcm.li/sonic.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Cartoon", Sonic Bangla
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524671
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Cartoon", Sonic Hindi
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524672
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Cartoon", Nick Bangla
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524673
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" tvg-name="MBC 3"  group-title="Cartoon",MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png" tvg-name="ANIMAX"  group-tgroup-title="Cartoon",Aitle="Cartoon",ANIMAX
@@ -1404,6 +1421,8 @@ https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/play
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Cartoon",WOW!TV (720p)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/psqf7I6.png" group-title="Cartoon", minimini
+https://m3u-editor.com/serve/f2cd7100-4707-11ec-adcf-c5e40a091995/427524668
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Cartoon",Zoomoo HD
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sUmqv2.png" group-title="Cartoon",WZra Kids TV
