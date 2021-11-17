@@ -280,7 +280,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZXAvBfX.png" group-title="Bangla",Shopno IPTV
-http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
+https://talusafagroup.ddns.net:8080/shopno/shopnotv.m3u8
+#http://43.231.22.238:8081/SHOPNO/shopnotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A7FuCH7.png" group-title="Bangla", Sobuj Bangla IPTV [BD]
 http://45.77.242.60/live/sobujbangla/index.m3u8
@@ -293,6 +294,9 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Bangla", T Sports HD
 http://113.212.111.246:8080/hls/col2.m3u8
+
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw" group-title="Bangla", TBN 24 USA
+https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png" group-title="Bangla",Voice TV
 https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
@@ -453,6 +457,9 @@ http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movi", Star Jalsha Movies HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Movi",Jalsha Movies SD
+http://rv.flysat.live:80/ams/ams123/83727
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Movi", Tollywood [IN]
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
