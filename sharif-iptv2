@@ -430,41 +430,39 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 
                                                                  #Sharif Akhand/Bangla Movi#
-                                                                 
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="Movi",Movie Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Movi",My Cinema
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/incAso3N_zW-6L7zsN4szBGg6WZWO4i-U25WLEeNhBVC6YAlAWPE5ZL7q2V1aScJ836mZGbh7w=s900-c-k-c0x00ffffff-no-rj" group-title="Movi",Bongo Movies
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/71
-
-#EXTINF:-1 tvg-logo="https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/256282885_573515137084929_4089983955869332804_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=825194&_nc_ohc=USyp8ZC_kOAAX9FYDAy&_nc_ht=scontent.fdac116-1.fna&oh=5a058df73811773f6579fdeeecfe0877&oe=6199A84A" group-title="Movi",AAMAR BANGLA
+                         
+#EXTINF:-1 tvg-logo="https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/256282885_573515137084929_4089983955869332804_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=825194&_nc_ohc=USyp8ZC_kOAAX9FYDAy&_nc_ht=scontent.fdac116-1.fna&oh=5a058df73811773f6579fdeeecfe0877&oe=6199A84A" group-title="Bangla Movi",AAMAR BANGLA
 https://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/C2xIgC5.jpg" group-title="Movi",AAMAR CINEMA [IN]                          
-https://sony247channels.akamaized.net/hls/live/2008247/AamarCinema/master.m3u8?
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C2xIgC5.jpg" group-title="Bangla Movi",AAMAR CINEMA [IN]                          
+https://sony247channels.akamaized.net/hls/live/2008247/AamarCinema/master.m3u8?                       
+                         
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/movie-bangla.png" group-title="Bangla Movi",Movie Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Movi", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="Bangla Movi",My Cinema
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/incAso3N_zW-6L7zsN4szBGg6WZWO4i-U25WLEeNhBVC6YAlAWPE5ZL7q2V1aScJ836mZGbh7w=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla Movi",Bongo Movies
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/71
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla Movi", Star Jalsha Movies HD
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Bangla Movi",Jalsha Movies SD
+http://rv.flysat.live:80/ams/ams123/83727
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla Movi", Tollywood [IN]
+http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ovmlAb1.jpg" group-title="Bangla Movi", Tele Film [IN]  
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/162
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla Movi", Zee Bangla Cinema
 https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
 #http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
 #http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Movi", Star Jalsha Movies HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Movi",Jalsha Movies SD
-http://rv.flysat.live:80/ams/ams123/83727
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Movi", Tollywood [IN]
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ovmlAb1.jpg" group-title="Movi", Tele Film [IN]  
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/162
-
-
 
 
 
