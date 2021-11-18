@@ -209,6 +209,9 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="Bangla",Magic Bangla IPTV [BD]
 http://enaniptv.com/magicbanglatv/1080/index.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2nmEE5djHXQRsmr3ckhxAH0lc08_K3lOfjA&usqp=CAU" group-title="Bangla",Meghna TV
+http://45.125.221.114:1935/live/megnatv/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQNUNSnM7_yeeuZDG9pruWDaYmJvy1wMjkC3g&usqp=CAU" group-title="Bangla",Nagorik TV
 https://last.gcdn.co/IND433/tracks-v1a1/mono.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/171
@@ -375,32 +378,39 @@ http://65.2.4.240/jioo.php?c=Aakaash_bangla&q=1200&e=.m3u8
                                             #Sharif Akhand/News#
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="News", Channel 24
-https://rhridoy136.shortcm.li/channel24.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+#https://rhridoy136.shortcm.li/channel24.m3u8
 
 #EXTINF:-1 tvg-logo="https://logovectordl.com/wp-content/uploads/2019/12/news24bd-tv-logo-vector.png" group-title="News",News 24
-https://rhridoy136.shortcm.li/news24.m3u8
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+#https://rhridoy136.shortcm.li/news24.m3u8
 
 #EXTINF:-1 tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg" group-title="News",Jamuna TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
+https://last.gcdn.co/IND432/index.m3u8
+#https://rhridoy136.shortcm.li/jamunatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="News",Shomoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
+https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
+#https://rhridoy136.shortcm.li/shomoytv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5an36g2643m02dj/natun-somoy-bd.png" group-title="News",Natun Somoy
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="News",ATN News
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
 https://rhridoy136.shortcm.li/atnnews.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/969/124/png-clipart-logo-bangladesh-independent-television-television-channel-design-television-text.png" group-title="News",Independent
-https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/969/124/png-clipart-logo-bangladesh-independent-television-television-channel-design-television-text.png" group-title="News",Independent Tv
+https://last.gcdn.co/IND430/index.m3u8
+#https://rhridoy136.shortcm.li/independenttv.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="News",Ekattor TV
 https://last.gcdn.co/IND429/index.m3u8
 #http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="News",DBC News
-https://rhridoy136.shortcm.li/dbcnews.m3u8
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+#https://rhridoy136.shortcm.li/dbcnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tbn24.com/public/website_logo.png" group-title="News",TBN 24 USA IPTV
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
@@ -874,7 +884,11 @@ http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.sky.com/contentstack/assets/bltcaeb0983267f4b43/bltb486b94ffaba907b/6005ab504485e50f8f20882a/download" group-title="Movi", Utsav Gold HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/30
+#http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #http://nicefly.xyz:80/h21041003/651032140/246239
+
+#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/UTVA.png" group-title="Movi",UTV
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65653
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Movi", Utv Movies
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
@@ -924,6 +938,7 @@ http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.linkpicture.com/q/Zee-classic.png" group-title="Movi",ZEE CINEMA CLASSIC
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64117
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207" group-title="Movi", Zee Action HD
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
@@ -1819,15 +1834,14 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV 
 https://piratesiptv.shortcm.li/gazi.m3u8
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
 #http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #https://rebrand.ly/JB/GaziTvHD
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV HD
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1634838515&md5=Vj19Xi5jfpoeYOIXCcxpNg&user=ef3b0701f26743a4a12ce79435bc6d0d
-
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="Sports",A Sports
+#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="Sports",A Sports HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/157
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/234
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Star_Sports_1_Bangla.png/revision/latest?cb=20190304172853" group-title="Sports",Star Sports 1 Bangla
 http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
