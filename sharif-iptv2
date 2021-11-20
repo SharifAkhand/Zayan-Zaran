@@ -1,25 +1,13 @@
 #EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live sports",T Sports HD
+http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest/scale-to-width-down/250?cb=20170728071015"" group-title="Live sports",Star Sports HD1
-http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live sports",T Sports 
+http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/c7/c782f45f5f3fb7b05cb32449d7c29ff7.png" group-title="Live sports",Star Sports HD2
-http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV 
+https://rhridoy136.shortcm.li/btv.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg/revision/latest/scale-to-width-down/220?cb=20180806112549" group-title="Live sports",Star Sports Select HD 1
-http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest?cb=20170728104956" group-title="Live sports",Star Sports Select HD 2
-http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://likeetv.com/uploads/tv_image/sony-six.jpg" group-title="Live sports",Sony Six HD
-http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest/scale-to-width-down/250?cb=20190322144000" group-title="Live sports",Sony Ten HD 2
-http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Live sports",Sony Ten HD 3
-http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 
                                                             #Sharif Akhand/Bangladeshi Tv#
 
@@ -1869,11 +1857,31 @@ http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #https://234b.short.gy/sydul.tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV 
+https://rhridoy136.shortcm.li/btv.m3u8
 https://piratesiptv.shortcm.li/gazi.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/185
 #http://45.72.100.66/indian/BANGLA-BD-Gazitv/tracks-v1a1/mono.m3u8
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #https://rebrand.ly/JB/GaziTvHD
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest/scale-to-width-down/250?cb=20170728071015"" group-title="Sports",Star Sports HD1
+http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.logolynx.com/images/logolynx/c7/c782f45f5f3fb7b05cb32449d7c29ff7.png" group-title="Sports",Star Sports HD2
+http://tv.alphamediazone.com:8089/thunderbd/26/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Star_Sports_Select_1.jpg/revision/latest/scale-to-width-down/220?cb=20180806112549" group-title="Sports",Star Sports Select HD 1
+http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest?cb=20170728104956" group-title="Sports",Star Sports Select HD 2
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://likeetv.com/uploads/tv_image/sony-six.jpg" group-title="Sports",Sony Six HD
+http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest/scale-to-width-down/250?cb=20190322144000" group-title="Sports",Sony Ten HD 2
+http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-85450736,width-1200,height-900,resizemode-4/.jpg" group-title="Sports",A Sports HD
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/157
@@ -1908,6 +1916,9 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="Sports",Star Sports Select 2
 #http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 http://221.120.204.4/STAR-SPORTS-SELECT-2-LOCKLE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN3HD_Masthead_Logo.png" group-title="Live sports",Sony Ten HD 3
+http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aO2GTAR.jpg" group-title="Sports", Sony Ten 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
