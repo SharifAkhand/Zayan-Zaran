@@ -3,10 +3,12 @@
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Live sports",T Sports 
-http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
+http://stop.next-code.xyz:2052/Nador/66263/24232
+#http://gb.nbox.live:1932/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTA/nk-tsports/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png" group-title="Sports",GAZI TV 
 https://rhridoy136.shortcm.li/btv.m3u8
+
 
 
                                                             #Sharif Akhand/Bangladeshi Tv#
@@ -632,6 +634,9 @@ http://65.2.4.240/jioo.php?c=Colors_Tamil_HD&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Movi", Colors Oriya
 http://65.2.4.240/jioo.php?c=Colors_Oriya&q=1200&e=.m3u8
 
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Movi", Colors Gujarati
+http://65.2.4.240/jioo.php?c=Colors_Gujarati&q=1200&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS93SXp5ApEgDFQkD--2QS67C0HHn737ixa32K_o2tAbOv5_h9W_Uhx7ZcAPu0v6Jd9SV4&usqp=CAU" group-title="Movi", Dabaang
 http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8?Live-TV™
 
@@ -672,6 +677,15 @@ http://65.2.4.240/jioo.php?c=ETV_Plus&q=1200&e=.m3u8
 
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Movi", ETV Abhiruchi
 http://65.2.4.240/jioo.php?c=ETV_Abhiruchi&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="Movi", ETV Telangana
+http://65.2.4.240/jioo.php?c=ETV_Telangana&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Movi", ETV Telugu
+http://65.2.4.240/jioo.php?c=ETV_Telugu&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="Movi", ETV Andhra pradesh
+http://65.2.4.240/jioo.php?c=ETV_Andhra_pradesh&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rbRwp6R.png?1" group-title="Movi",Filmachi
 http://103.141.66.36/bpk-tv/10290/default/manifest.mpd?=.m3u8
@@ -829,6 +843,9 @@ http://65.2.4.240/jioo.php?c=Sony_Wah&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Movi", Sony Pal
 http://65.2.4.240/jioo.php?c=Sony_Pal&q=1200&e=.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/200?cb=20200608133037" group-title="Movi",Sony Movies Action
+http://51.52.156.22:8888/http/009
+
 #EXTINF:-103 tvg-logo="https://www.pngitem.com/pimgs/m/245-2459623_no-image-star-gold-channel-logo-hd-png.png" group-title="Movi",Star Gold
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
 #http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/193.m3u8
@@ -984,6 +1001,9 @@ https://f8e7y4c6.ssl.hwcdn.net/marathiusa/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="Movi", Zee Rajasthan
 http://65.2.4.240/jioo.php?c=Zee_Rajasthan&q=1200&e=.m3u8
 
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="Movi", Zee Hindustan
+http://65.2.4.240/jioo.php?c=Zee_SANGAM&q=1200&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Zee_smile.png/revision/latest/scale-to-width-down/2000?cb=20210514131333" group-title="Movi", Zee Smile
 https://f8e7y4c6.ssl.hwcdn.net/smileusa/playlist.m3u8
 
@@ -1011,9 +1031,6 @@ http://65.2.4.240/jioo.php?c=Zee_Yuva&q=1200&e=.m3u8
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Movi", Zee Marathi
 http://65.2.4.240/jioo.php?c=Zee_Marathi&q=1200&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Sony_Movies_Action.jpg/revision/latest/scale-to-width-down/200?cb=20200608133037" group-title="Movi",Sony Movies Action
-http://51.52.156.22:8888/http/009
-
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Movi", Zee Cinemalu
 http://65.2.4.240/jioo.php?c=Zee_Cinemalu&q=1200&e=.m3u8
 
@@ -1034,6 +1051,9 @@ http://65.2.4.240/jioo.php?c=Zee_Purvaiya&q=1200&e=.m3u8
 
 #EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="Movi", Zee Punjabi HP Haryana
 http://65.2.4.240/jioo.php?c=Zee_Punjabi_HP_Haryana&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="Movi", Zee UP UK
+http://65.2.4.240/jioo.php?c=Living_Foodz&q=1200&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png/revision/latest?cb=20200108100316" group-title="Movi", Zoo Music
 https://eu-fr.tvapp.icu/joomusic/tv/playlist.m3u8
@@ -2153,7 +2173,8 @@ http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/56/f1/eb/56f1eb0481bdd3c59103f27270261159.jpg" group-title="Sports", WWF
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/153
 
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/QENIkSv.jpg" group-title="Sports", Ten Sports
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/163
 
 
 
