@@ -433,12 +433,12 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 
 #EXTINF:-1 tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg" group-title="News",Jamuna TV
 http://tv.alphamediazone.com:8089/thunderbd/13/index.m3u8
-#https://last.gcdn.co/IND432/index.m3u8
-#https://rhridoy136.shortcm.li/jamunatv.m3u8
+https://last.gcdn.co/IND432/index.m3u8
+https://rhridoy136.shortcm.li/jamunatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="News",Shomoy TV
 https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
-#https://rhridoy136.shortcm.li/shomoytv.m3u8
+https://rhridoy136.shortcm.li/shomoytv.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5an36g2643m02dj/natun-somoy-bd.png" group-title="News",Natun Somoy
 http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
@@ -449,8 +449,8 @@ https://rhridoy136.shortcm.li/atnnews.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/969/124/png-clipart-logo-bangladesh-independent-television-television-channel-design-television-text.png" group-title="News",Independent Tv
 http://tv.alphamediazone.com:8089/thunderbd/12/index.m3u8
-#https://last.gcdn.co/IND430/index.m3u8
-#https://rhridoy136.shortcm.li/independenttv.m3u8
+https://last.gcdn.co/IND430/index.m3u8
+https://rhridoy136.shortcm.li/independenttv.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="News",Ekattor TV
 http://tv.alphamediazone.com:8089/thunderbd/11/index.m3u8
