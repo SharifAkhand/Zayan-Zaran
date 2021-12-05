@@ -131,7 +131,8 @@ http://72.139.72.18:1935/live/myStream/chunklist_w1702774192.m3u8
 https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kFqOMtx.png" group-title="Bangla", Ekusey TV
-https://ekusheyserver.com/etvlivesn.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-logo="https://eurobanglatv.net/upload/header/Euro-Bangla-TV-Logo.png" group-title="Bangla", Euro Bangla TV
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/222
@@ -319,9 +320,23 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/77
 #http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
 #https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebangla
 
+#EXTINF:-1 group-title="Most Popular" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zee-bangla-in.png",Zee Bangla HD
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/209
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
+#https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
+#http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
+#http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Bangla", Star Jalsha HD
-https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+#https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+#https://last.gcdn.co/IND392/tracks-v1a1/mono.m3u8
 #http://137.59.155.253:8088/hls/Star_Jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Star Jalsha Movies HD
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Bangla", Sony Aath
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/81
@@ -435,16 +450,6 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/71
 
 #EXTINF:0 tvg-logo="https://cabeltvapp.com/wp-content/uploads/2020/09/PNG-200x200.png" group-title="Bangla",Mim Tv
 http://208.86.19.21:800/live/meemtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Star Jalsha Movies HD
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Bangla", Zee Bangla Cinema
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
-#https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
-#http://65.2.4.240/jioo.php?c=Zee_Bangla_Cinema&q=1200&e=junk.m3u8
-#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
-#http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="Bangla", Tollywood [IN]
 http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in_480p/index.m3u8
