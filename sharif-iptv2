@@ -109,7 +109,8 @@ https://last.gcdn.co/IND443/index.m3u8
 #http://103.205.133.40/hls/deshtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tPZKfLr.png" group-title="Bangla", Deepto TV HD
-https://last.gcdn.co/IND450/index.m3u8
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/125
+#https://last.gcdn.co/IND450/index.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/191
 #https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
 
@@ -217,11 +218,9 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nakshitv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla", NTV
-http://tv.alphamediazone.com:8089/thunderbd/54/index.m3u8
+http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+#http://tv.alphamediazone.com:8089/thunderbd/54/index.m3u8
 #http://jupiter.bdcabletv.com/NTV/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wPNiJBT.jpg" group-title="Bangla",NTV (UK Time)
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Brv8XBm/NRB-TV.png" group-title="Bangla",NRB IPTV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
@@ -316,7 +315,8 @@ https://5dd3981940faa.streamlock.net/channel52tv/channel52tv/chunklist_w21023459
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e5Ldh7e.png" group-title="Bangla", Zee Bangla
-http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/77
+http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/209
+#http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/77
 #http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=junk.m3u8
 #https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebangla
 
@@ -331,11 +331,13 @@ http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/213
 #http://rusmedia.ayservices.xyz:80/Q5MePA2emj/YH3Y23d3D3/98822
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350" group-title="Bangla", Star Jalsha HD
+http://208.86.19.21:80/908.stream/index.m3u8
 #https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
 #https://last.gcdn.co/IND392/tracks-v1a1/mono.m3u8
 #http://137.59.155.253:8088/hls/Star_Jalsha.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PQfcOh.png" group-title="Bangla", Star Jalsha Movies HD
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/155
 
 #EXTINF:0 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="Bangla", Sony Aath
@@ -415,7 +417,8 @@ https://rhridoy136.shortcm.li/independenttv.m3u8
 http://103.159.4.38:8080/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" group-title="Bangla",DBC News
-https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+http://103.159.4.38:5868/BD-BANGLA-13/index.m3u8
+#https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
 #https://rhridoy136.shortcm.li/dbcnews.m3u8
 
 
